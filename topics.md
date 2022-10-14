@@ -591,6 +591,7 @@
 ## flutter 
 
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## font 
 
@@ -1122,6 +1123,7 @@
 
 ## others 
 
+- [VictorRobellini/pfSense-Dashboard](https://github.com/VictorRobellini/pfSense-Dashboard) - A functional and useful dashboard for pfSense that utilizes influxdb, grafana and telegraf
 - [ahuacate/pfsense-haproxy](https://github.com/ahuacate/pfsense-haproxy) - Build a Proxmox LXC HAProxy
 - [devster31/filebot-scripts](https://github.com/devster31/filebot-scripts) - Personal FileBot scripts
 - [UdelaRInterior/ansible-role-proxmox-create-lxc](https://github.com/UdelaRInterior/ansible-role-proxmox-create-lxc) - Ansible role to create an lxc container with network and several disks
@@ -1157,7 +1159,7 @@
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [JaimeObregon/subvenciones](https://github.com/JaimeObregon/subvenciones) - Volcado de la Base de Datos Nacional de Subvenciones (BDNS).
-- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & Vanced MicroG Backup APK
+- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & Vanced MicroG APK Download
 - [jsavargas/telethon_downloader](https://github.com/jsavargas/telethon_downloader) - 
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
