@@ -1126,6 +1126,7 @@
 
 ## others 
 
+- [AnalogJ/hatchet](https://github.com/AnalogJ/hatchet) - Cut down spam in your Gmail Inbox
 - [VictorRobellini/pfSense-Dashboard](https://github.com/VictorRobellini/pfSense-Dashboard) - A functional and useful dashboard for pfSense that utilizes influxdb, grafana and telegraf
 - [ahuacate/pfsense-haproxy](https://github.com/ahuacate/pfsense-haproxy) - Build a Proxmox LXC HAProxy
 - [devster31/filebot-scripts](https://github.com/devster31/filebot-scripts) - Personal FileBot scripts
