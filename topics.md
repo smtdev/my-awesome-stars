@@ -428,6 +428,7 @@
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
+- [henrikfroehling/Trakt.NET](https://github.com/henrikfroehling/Trakt.NET) - A .NET library for the Trakt.tv API.
 
 ## css 
 
@@ -549,6 +550,7 @@
 
 - [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+- [henrikfroehling/Trakt.NET](https://github.com/henrikfroehling/Trakt.NET) - A .NET library for the Trakt.tv API.
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
 
