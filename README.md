@@ -256,7 +256,7 @@
 - [google/dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-- [MindorksOpenSource/android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
+- [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
 - [michaelbel/YouShows](https://github.com/michaelbel/YouShows) - Simple app to track and save your TV shows
 - [despcy/Google-AAD-CheatSheet](https://github.com/despcy/Google-AAD-CheatSheet) - Code may be used in Google Associate Android Developer Exam 谷歌安卓开发者认证考试常用代码
 - [Madonahs/Nano-Degree-Projects](https://github.com/Madonahs/Nano-Degree-Projects) - 🎓  Udacity Nano Degree Android Projects. All Needed projects you can check out my work here. Submitted and accepted projects.
@@ -269,7 +269,7 @@
 - [sooshin/android-popular-movies-app](https://github.com/sooshin/android-popular-movies-app) - Popular Movies App project for Udacity Android Developer Nanodegree. Integrated the Paging library, LiveData, ViewModel, DataBinding, Room, MVVM architecture and Repository pattern.
 - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [aboullaite/Multi-Client-Server-chat-application](https://github.com/aboullaite/Multi-Client-Server-chat-application) - Socket Programming - Multi-Client Server chat application using java swing & Android
-- [MindorksOpenSource/android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2,  GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
+- [janishar/android-mvp-architecture](https://github.com/janishar/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2,  GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
 - [MFlisar/changelog](https://github.com/MFlisar/changelog) - Changelog library - builder setup and advanced filtering
 - [ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - Android library to observe scroll events on scrollable views.
@@ -297,7 +297,7 @@
 - [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
 - [material-components/material-components-android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
 - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
-- [MindorksOpenSource/from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
+- [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [joelittlejohn/jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
@@ -382,7 +382,7 @@
 - [material-components/material-components-android-examples](https://github.com/material-components/material-components-android-examples) - Companion example apps and code for MDC-Android.
 - [firatkarababa/BottomAppBarBehaviour](https://github.com/firatkarababa/BottomAppBarBehaviour) - An example project to implement BottomAppBar behaviors
 - [antoniolg/architect-coders](https://github.com/antoniolg/architect-coders) - Companion app for Architect Coders training
-- [MindorksOpenSource/android-kotlin-mvp-architecture](https://github.com/MindorksOpenSource/android-kotlin-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture in Kotlin using Dagger2, Room, RxJava2, FastAndroidNetworking and PlaceholderView
+- [janishar/android-kotlin-mvp-architecture](https://github.com/janishar/android-kotlin-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture in Kotlin using Dagger2, Room, RxJava2, FastAndroidNetworking and PlaceholderView
 - [skydoves/BaseRecyclerViewAdapter](https://github.com/skydoves/BaseRecyclerViewAdapter) - ⚡ Fast way to bind RecyclerView adapter and ViewHolder for implementing clean sections.
 - [Mustafashahoud/MoviesApp](https://github.com/Mustafashahoud/MoviesApp) - A Movie Application uses TheMovie API, MVVM architecture and all jetpack components.
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
