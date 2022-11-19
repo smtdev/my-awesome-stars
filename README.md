@@ -538,6 +538,7 @@
 
 ## Python 
 
+- [petersulyok/smfc](https://github.com/petersulyok/smfc) - Super Micro Fan Control
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [psy0rz/zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. Easy to use and very reliable.
