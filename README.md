@@ -509,6 +509,7 @@
 
 ## PHP 
 
+- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [VictorRobellini/pfSense-Dashboard](https://github.com/VictorRobellini/pfSense-Dashboard) - A functional and useful dashboard for pfSense that utilizes influxdb, grafana and telegraf
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition) - Nextcloud app that implement a basic facial recognition system.
@@ -729,7 +730,7 @@
 
 ## Vue 
 
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Photo Management for Nextcloud
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
