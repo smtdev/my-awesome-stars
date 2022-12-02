@@ -47,6 +47,7 @@
 
 ## Assembly 
 
+- [corkami/pics](https://github.com/corkami/pics) - Posters, drawings...
 - [jacob5412/8086-Programs](https://github.com/jacob5412/8086-Programs) - ASM Programs on 8086
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
@@ -144,6 +145,7 @@
 
 ## Go 
 
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [AnalogJ/hatchet](https://github.com/AnalogJ/hatchet) - Cut down spam in your Gmail Inbox
 - [zrepl/zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution
@@ -432,6 +434,8 @@
 
 ## Others 
 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+- [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis) - 📚 Lista de libros sobre programación en Español y gratis
 - [ahuacate/pfsense-haproxy](https://github.com/ahuacate/pfsense-haproxy) - Build a Proxmox LXC HAProxy
 - [UdelaRInterior/ansible-role-proxmox-create-lxc](https://github.com/UdelaRInterior/ansible-role-proxmox-create-lxc) - Ansible role to create an lxc container with network and several disks
 - [Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates) - Template file for new portainer setup
@@ -540,6 +544,8 @@
 
 ## Python 
 
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [petersulyok/smfc](https://github.com/petersulyok/smfc) - Super Micro Fan Control
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
@@ -703,6 +709,7 @@
 
 ## TypeScript 
 
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [mattwilson1024/google-photos-exif](https://github.com/mattwilson1024/google-photos-exif) - A tool to populate missing `DateTimeOriginal` EXIF metadata in Google Photos takeout, using Google's JSON metadata.
