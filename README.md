@@ -437,6 +437,9 @@
 
 ## Others 
 
+- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis) - 📚 Lista de libros sobre programación en Español y gratis
 - [ahuacate/pfsense-haproxy](https://github.com/ahuacate/pfsense-haproxy) - Build a Proxmox LXC HAProxy
