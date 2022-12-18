@@ -854,7 +854,6 @@
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [michaelbel/YouShows](https://github.com/michaelbel/YouShows) - Simple app to track and save your TV shows
-- [michaelbel/movies](https://github.com/michaelbel/movies) - Discover movies app
 - [Madonahs/Nano-Degree-Projects](https://github.com/Madonahs/Nano-Degree-Projects) - 🎓  Udacity Nano Degree Android Projects. All Needed projects you can check out my work here. Submitted and accepted projects.
 - [maksim-m/Popular-Movies-App](https://github.com/maksim-m/Popular-Movies-App) - A simple Android app, that helps user to discover movies. Project 1 & 2 of Udacity Android Developer Nanodegree.
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
@@ -1064,7 +1063,6 @@
 - [material-foundation/material-remixer](https://github.com/material-foundation/material-remixer) - A set of cross-platform libraries and protocols to allow the sharing of design values and live refinement of apps during the development process.
 - [Commit451/ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment) - Modal bottom sheet dialog based on the Material Guidelines
 - [michaelbel/YouShows](https://github.com/michaelbel/YouShows) - Simple app to track and save your TV shows
-- [michaelbel/movies](https://github.com/michaelbel/movies) - Discover movies app
 - [maksim-m/Popular-Movies-App](https://github.com/maksim-m/Popular-Movies-App) - A simple Android app, that helps user to discover movies. Project 1 & 2 of Udacity Android Developer Nanodegree.
 - [skydoves/TheMovies](https://github.com/skydoves/TheMovies) - 🎬 A demo project for The Movie DB based on Kotlin MVVM architecture and material design & animations.
 - [ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - Android library to observe scroll events on scrollable views.
