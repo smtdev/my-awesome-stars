@@ -999,6 +999,7 @@
 
 ## linux 
 
+- [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [petersulyok/smfc](https://github.com/petersulyok/smfc) - Super Micro Fan Control
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
@@ -1566,6 +1567,7 @@
 
 ## shell 
 
+- [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
