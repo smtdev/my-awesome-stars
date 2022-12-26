@@ -188,7 +188,6 @@
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [StegSchreck/RatS](https://github.com/StegSchreck/RatS) - Movie Ratings Synchronization with Python
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [dsantosmerino/filmaffinity-api](https://github.com/dsantosmerino/filmaffinity-api) - A filmaffinity.com read-only API
@@ -624,6 +623,7 @@
 ## Ruby 
 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [dsantosmerino/filmaffinity-gem](https://github.com/dsantosmerino/filmaffinity-gem) - Easy access to Filmaffinity data
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
