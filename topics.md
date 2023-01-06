@@ -448,7 +448,7 @@
 - [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  https://yuque.com/indiff/qttabbar/zqtdig
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision & Manifest V3 webRequestBlocking limitations
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
@@ -575,7 +575,7 @@
 
 ## dotnet 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [henrikfroehling/Trakt.NET](https://github.com/henrikfroehling/Trakt.NET) - A .NET library for the Trakt.tv API.
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
@@ -705,7 +705,7 @@
 
 ## good-first-issue 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 ## google 
 
@@ -1526,6 +1526,7 @@
 
 ## security 
 
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with Cakephp
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
@@ -1706,7 +1707,7 @@
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
