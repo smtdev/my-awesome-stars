@@ -48,7 +48,7 @@
 
 ## Assembly 
 
-- [corkami/pics](https://github.com/corkami/pics) - Posters, drawings...
+- [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
 - [jacob5412/8086-Programs](https://github.com/jacob5412/8086-Programs) - ASM Programs on 8086
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
