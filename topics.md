@@ -288,7 +288,7 @@
 - [Corsinvest/cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) - Automatic snapshot tool for Proxmox VE
 - [ubahnverleih/WoBike](https://github.com/ubahnverleih/WoBike) - Documentation of Bike Sharing APIs 🚴🛴🛵
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [henrikfroehling/Trakt.NET](https://github.com/henrikfroehling/Trakt.NET) - A .NET library for the Trakt.tv API.
+- [henrikfroehling/Trakt.NET](https://github.com/henrikfroehling/Trakt.NET) - A .NET wrapper library with which developers can build .NET applications that integrate with the Trakt.tv API and access its features and data.
 
 ## artificial-intelligence 
 
@@ -438,21 +438,21 @@
 
 ## cpp 
 
-- [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  https://yuque.com/indiff/qttabbar/zqtdig
+- [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  千山万水总是情,给个start行不行 https://yuque.com/indiff/qttabbar/zqtdig
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 
 ## csharp 
 
-- [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  https://yuque.com/indiff/qttabbar/zqtdig
+- [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  千山万水总是情,给个start行不行 https://yuque.com/indiff/qttabbar/zqtdig
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision & Manifest V3 webRequestBlocking limitations
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
-- [henrikfroehling/Trakt.NET](https://github.com/henrikfroehling/Trakt.NET) - A .NET library for the Trakt.tv API.
+- [henrikfroehling/Trakt.NET](https://github.com/henrikfroehling/Trakt.NET) - A .NET wrapper library with which developers can build .NET applications that integrate with the Trakt.tv API and access its features and data.
 
 ## css 
 
@@ -577,7 +577,7 @@
 
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
-- [henrikfroehling/Trakt.NET](https://github.com/henrikfroehling/Trakt.NET) - A .NET library for the Trakt.tv API.
+- [henrikfroehling/Trakt.NET](https://github.com/henrikfroehling/Trakt.NET) - A .NET wrapper library with which developers can build .NET applications that integrate with the Trakt.tv API and access its features and data.
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
 
@@ -970,7 +970,7 @@
 
 ## language 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## laravel 
 
@@ -1692,7 +1692,7 @@
 
 ## windows 
 
-- [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  https://yuque.com/indiff/qttabbar/zqtdig
+- [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  千山万水总是情,给个start行不行 https://yuque.com/indiff/qttabbar/zqtdig
 - [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
