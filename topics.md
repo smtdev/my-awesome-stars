@@ -504,6 +504,7 @@
 
 ## deployment 
 
+- [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 
 ## design 
@@ -514,6 +515,8 @@
 
 ## devops 
 
+- [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
@@ -999,6 +1002,8 @@
 
 ## linux 
 
+- [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [petersulyok/smfc](https://github.com/petersulyok/smfc) - Super Micro Fan Control
@@ -1040,6 +1045,7 @@
 
 ## macos 
 
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
@@ -1092,6 +1098,7 @@
 
 ## monitoring 
 
+- [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1627,6 +1634,8 @@
 
 ## terminal 
 
+- [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
@@ -1654,6 +1663,7 @@
 
 ## ubuntu 
 
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [htpcBeginner/AtoMiC-ToolKit](https://github.com/htpcBeginner/AtoMiC-ToolKit) - AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, 
@@ -1699,6 +1709,7 @@
 
 ## windows 
 
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  千山万水总是情,给个start行不行 https://yuque.com/indiff/qttabbar/zqtdig
 - [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
