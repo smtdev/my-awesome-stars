@@ -21,6 +21,7 @@
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
+- [Hack](#hack)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -83,7 +84,7 @@
 
 ## C# # 
 
-- [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  千山万水总是情,给个start行不行 https://yuque.com/indiff/qttabbar/zqtdig
+- [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  🏮2023新年快乐🏮 https://yuque.com/indiff/qttabbar/zqtdig
 - [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision & Manifest V3 webRequestBlocking limitations
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
@@ -201,6 +202,10 @@
 - [dsantosmerino/filmaffinity-api](https://github.com/dsantosmerino/filmaffinity-api) - A filmaffinity.com read-only API
 - [orobardet/dsm-reverse-proxy-websocket](https://github.com/orobardet/dsm-reverse-proxy-websocket) - Configuration fix for Synology DSM 6 reverse proxy to handle websocket
 - [germaaan/trabajos_universidad](https://github.com/germaaan/trabajos_universidad) - Recopilación de todos los trabajos (recuperables) hechos durante mi trayecto en la Universidad de Granada
+
+## Hack 
+
+- [lxdware/lxd-dashboard](https://github.com/lxdware/lxd-dashboard) - This LXD dashboard is a web-based user interface (GUI) for managing containers and virtual machines through LXD
 
 ## Haskell 
 
@@ -558,7 +563,7 @@
 
 ## PowerShell 
 
-- [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
+- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
 - [sexibytes/sexigraf](https://github.com/sexibytes/sexigraf) - SexiGraf is a vSphere centric Graphite appliance with a Grafana frontend.
@@ -656,6 +661,7 @@
 
 ## Shell 
 
+- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your running Raspberry
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
