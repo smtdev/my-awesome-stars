@@ -224,7 +224,7 @@
 - [k0shk0sh/Android-MVP-for-dummies](https://github.com/k0shk0sh/Android-MVP-for-dummies) - this is simple application demonstrate how structuring MVP project in Android.
 - [tiagohs/PopMovies](https://github.com/tiagohs/PopMovies) - Aplicativo em Android para organização dos seus filmes favoritos.
 - [jd-alexander/LikeButton](https://github.com/jd-alexander/LikeButton) - Twitter's heart animation for Android
-- [Marwa-Eltayeb/MovieTrailer](https://github.com/Marwa-Eltayeb/MovieTrailer) - Android Movie App for displaying all popular movies, search any movie, find information about it and save it locally as a favourite movie made by using TMDb (The Movie Database) API
+- [marwa-eltayeb/MovieTrailer](https://github.com/marwa-eltayeb/MovieTrailer) - Android Movie App for displaying all popular movies, search any movie, find information about it and save it locally as a favourite movie made by using TMDb (The Movie Database) API
 - [mitchtabian/Retrofit-Caching-Example](https://github.com/mitchtabian/Retrofit-Caching-Example) - An example of how to use Retrofit2 to cache HTTP responses
 - [BrianSpace/Android-App-Architecture-MVVM-Databinding](https://github.com/BrianSpace/Android-App-Architecture-MVVM-Databinding) - A simple but complete project  (in both Java & Kotlin) to demonstrate the Android application architecture with MVVM pattern, a client app for The Movie DB Web API. Dagger2 is used for dependency inje
 - [Guardsquare/proguard](https://github.com/Guardsquare/proguard) - ProGuard, Java optimizer and obfuscator
