@@ -1254,7 +1254,7 @@
 - [deano2390/MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) - A Material Design themed ShowcaseView for Android
 - [k0shk0sh/Android-MVP-for-dummies](https://github.com/k0shk0sh/Android-MVP-for-dummies) - this is simple application demonstrate how structuring MVP project in Android.
 - [jd-alexander/LikeButton](https://github.com/jd-alexander/LikeButton) - Twitter's heart animation for Android
-- [Marwa-Eltayeb/MovieTrailer](https://github.com/Marwa-Eltayeb/MovieTrailer) - Android Movie App for displaying all popular movies, search any movie, find information about it and save it locally as a favourite movie made by using TMDb (The Movie Database) API
+- [marwa-eltayeb/MovieTrailer](https://github.com/marwa-eltayeb/MovieTrailer) - Android Movie App for displaying all popular movies, search any movie, find information about it and save it locally as a favourite movie made by using TMDb (The Movie Database) API
 - [mitchtabian/Retrofit-Caching-Example](https://github.com/mitchtabian/Retrofit-Caching-Example) - An example of how to use Retrofit2 to cache HTTP responses
 - [mitchtabian/Clean-Notes](https://github.com/mitchtabian/Clean-Notes) - Clean Architecture by layer
 - [JoseAlcerreca/android-lifecycles](https://github.com/JoseAlcerreca/android-lifecycles) - 
