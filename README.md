@@ -29,6 +29,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
 - [PHP](#php)
@@ -142,12 +143,13 @@
 
 ## Dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 ## Dockerfile 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol t
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
@@ -162,6 +164,7 @@
 - [zrepl/zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [msoap/shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line
@@ -358,7 +361,6 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [amarcu5/PiPer](https://github.com/amarcu5/PiPer) - Browser extension that adds Picture in Picture support to YouTube, Netflix, Amazon Video, Twitch, Plex, and more!
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
@@ -392,6 +394,7 @@
 ## Kotlin 
 
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
+- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial
 - [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
 - [Ferfalk/SimpleSearchView](https://github.com/Ferfalk/SimpleSearchView) - A simple SearchView for Android based on Material Design
 - [mitchtabian/Clean-Notes](https://github.com/mitchtabian/Clean-Notes) - Clean Architecture by layer
@@ -446,6 +449,10 @@
 
 - [AbyssEngine/OpenDiablo2](https://github.com/AbyssEngine/OpenDiablo2) - An implementation of Diablo 2 in AbyssEngine.
 
+## Makefile 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
 ## Markdown 
 
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
@@ -470,7 +477,6 @@
 - [Androthi/cCalc](https://github.com/Androthi/cCalc) - a binary calculator using x/86 instructions
 - [null-burn/nginx-proxy-manager-goaccess](https://github.com/null-burn/nginx-proxy-manager-goaccess) - NGINX Proxy Manager and Goaccess docker file
 - [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag
-- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -562,7 +568,7 @@
 
 ## PowerShell 
 
-- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
+- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
 - [sexibytes/sexigraf](https://github.com/sexibytes/sexigraf) - SexiGraf is a vSphere centric Graphite appliance with a Grafana frontend.
@@ -570,6 +576,7 @@
 
 ## Python 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [chiraag-kakar/PyAutomation](https://github.com/chiraag-kakar/PyAutomation) - Simple and Useful Automation Tools built with the help of modules available with Python published at PyPI.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -770,7 +777,6 @@
 ## Vue 
 
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
