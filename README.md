@@ -68,6 +68,8 @@
 
 ## Batchfile 
 
+- [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
+- [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
