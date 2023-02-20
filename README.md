@@ -87,6 +87,9 @@
 
 ## C# # 
 
+- [Corsinvest/cv4pve-botgram](https://github.com/Corsinvest/cv4pve-botgram) - Telegram Bot for Proxmox VE
+- [Corsinvest/cv4pve-cli](https://github.com/Corsinvest/cv4pve-cli) - Cli for Proxmox VE (Command Line Interfaces)
+- [Corsinvest/cv4pve-node-protect](https://github.com/Corsinvest/cv4pve-node-protect) - Proxmox VE protect configuration file nodes
 - [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://yuque.com/indiff/qttabbar/zqtdig
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision & Manifest V3 webRequestBlocking limitations
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
@@ -203,7 +206,7 @@
 - [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
 - [StegSchreck/RatS](https://github.com/StegSchreck/RatS) - Movie Ratings Synchronization with Python
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [dsantosmerino/filmaffinity-api](https://github.com/dsantosmerino/filmaffinity-api) - A filmaffinity.com read-only API
+- [dsantosmerino/filmaffinity-api](https://github.com/dsantosmerino/filmaffinity-api) - filmaffinity.com read-only unofficial API
 - [orobardet/dsm-reverse-proxy-websocket](https://github.com/orobardet/dsm-reverse-proxy-websocket) - Configuration fix for Synology DSM 6 reverse proxy to handle websocket
 - [germaaan/trabajos_universidad](https://github.com/germaaan/trabajos_universidad) - Recopilación de todos los trabajos (recuperables) hechos durante mi trayecto en la Universidad de Granada
 
@@ -341,6 +344,7 @@
 
 ## JavaScript 
 
+- [brettpetch/nightwalker](https://github.com/brettpetch/nightwalker) - A dark but not black qBittorrent WebUI
 - [lKinderBueno/Streamity-Xtream-IPTV-Web-player](https://github.com/lKinderBueno/Streamity-Xtream-IPTV-Web-player) - Streamity.tv XTREAM Api. Advanced IPTV webplayer fully customizable with easy installer
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -580,6 +584,8 @@
 
 ## Python 
 
+- [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
+- [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
@@ -671,6 +677,8 @@
 
 ## Shell 
 
+- [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
+- [domingoruiz/Proxmox-Launcher](https://github.com/domingoruiz/Proxmox-Launcher) - Utilidad para acceder rápidamente a máquinas virtuales Proxmox
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your running Raspberry
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
