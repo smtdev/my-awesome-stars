@@ -289,6 +289,7 @@
 ## api 
 
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [dsantosmerino/filmaffinity-api](https://github.com/dsantosmerino/filmaffinity-api) - filmaffinity.com read-only unofficial API
 - [Corsinvest/cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) - Automatic snapshot tool for Proxmox VE
 - [ubahnverleih/WoBike](https://github.com/ubahnverleih/WoBike) - Documentation of Bike Sharing APIs 🚴🛴🛵
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -376,6 +377,7 @@
 
 ## bash 
 
+- [domingoruiz/Proxmox-Launcher](https://github.com/domingoruiz/Proxmox-Launcher) - Utilidad para acceder rápidamente a máquinas virtuales Proxmox
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -396,6 +398,7 @@
 
 ## bot 
 
+- [Corsinvest/cv4pve-botgram](https://github.com/Corsinvest/cv4pve-botgram) - Telegram Bot for Proxmox VE
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 
 ## c 
@@ -427,6 +430,7 @@
 
 ## cli 
 
+- [Corsinvest/cv4pve-cli](https://github.com/Corsinvest/cv4pve-cli) - Cli for Proxmox VE (Command Line Interfaces)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
@@ -603,6 +607,7 @@
 
 ## dotnet 
 
+- [Corsinvest/cv4pve-cli](https://github.com/Corsinvest/cv4pve-cli) - Cli for Proxmox VE (Command Line Interfaces)
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [henrikfroehling/Trakt.NET](https://github.com/henrikfroehling/Trakt.NET) - A .NET wrapper library with which developers can build .NET applications that integrate with the Trakt.tv API and access its features and data.
@@ -864,7 +869,6 @@
 
 ## iot 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
@@ -1032,6 +1036,7 @@
 
 ## linux 
 
+- [Corsinvest/cv4pve-node-protect](https://github.com/Corsinvest/cv4pve-node-protect) - Proxmox VE protect configuration file nodes
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
@@ -1069,6 +1074,7 @@
 
 ## machine-learning 
 
+- [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1210,9 +1216,12 @@
 
 ## others 
 
+- [brettpetch/nightwalker](https://github.com/brettpetch/nightwalker) - A dark but not black qBittorrent WebUI
+- [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your running Raspberry
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
 - [chicolucio/truth-table-generator](https://github.com/chicolucio/truth-table-generator) - truth-table-generator is a tool that allows to generate a truth table
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
@@ -1334,7 +1343,6 @@
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
 - [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 - [MaDDoGo/metadata.filmaffinity.com](https://github.com/MaDDoGo/metadata.filmaffinity.com) - Scraper de filmaffinity para XBMC
-- [dsantosmerino/filmaffinity-api](https://github.com/dsantosmerino/filmaffinity-api) - A filmaffinity.com read-only API
 - [DannyBen/FlicFlac](https://github.com/DannyBen/FlicFlac) - Tiny Portable Audio Converter for Windows (WAV FLAC MP3 OGG APE M4A AAC)
 - [aboullaite/Multi-Client-Server-chat-application](https://github.com/aboullaite/Multi-Client-Server-chat-application) - Socket Programming - Multi-Client Server chat application using java swing & Android
 - [binhex/arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker build script for Arch Linux base with Deluge, Privoxy and OpenVPN
@@ -1468,6 +1476,7 @@
 
 ## python 
 
+- [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [codebox/mosaic](https://github.com/codebox/mosaic) - Python script for creating photomosaic images
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
@@ -1493,6 +1502,7 @@
 
 ## python3 
 
+- [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [chiraag-kakar/PyAutomation](https://github.com/chiraag-kakar/PyAutomation) - Simple and Useful Automation Tools built with the help of modules available with Python published at PyPI.
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
@@ -1654,6 +1664,7 @@
 
 ## telegram 
 
+- [Corsinvest/cv4pve-botgram](https://github.com/Corsinvest/cv4pve-botgram) - Telegram Bot for Proxmox VE
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [botgram/shell-bot](https://github.com/botgram/shell-bot) - :robot: Telegram bot that executes commands and sends the live output
 - [msoap/shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line
