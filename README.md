@@ -633,7 +633,7 @@
 - [FredHutch/proxmox-tools](https://github.com/FredHutch/proxmox-tools) - prox command line interface for proxmox and other tools and customizations
 - [ossobv/proxmove](https://github.com/ossobv/proxmove) - Migrate virtual machines between different Proxmox VE clusters with minimal downtime
 - [HyperSine/how-does-MobaXterm-encrypt-password](https://github.com/HyperSine/how-does-MobaXterm-encrypt-password) - This repo offers a tool to reveal password encrypted by MobaXterm.
-- [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64
+- [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Drive Storage by splitting binary files into base64
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [JunshengFu/vehicle-detection](https://github.com/JunshengFu/vehicle-detection) - Created vehicle detection pipeline with two approaches: (1) deep neural networks (YOLO framework) and (2) support vector machines ( OpenCV + HOG).
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
