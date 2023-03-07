@@ -72,6 +72,7 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [home-assistant](#home-assistant)
 - [homebridge](#homebridge)
 - [html](#html)
 - [html5](#html5)
@@ -854,6 +855,11 @@
 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
+## home-assistant 
+
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
+
 ## homebridge 
 
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
@@ -1252,7 +1258,6 @@
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your running Raspberry
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
 - [chicolucio/truth-table-generator](https://github.com/chicolucio/truth-table-generator) - truth-table-generator is a tool that allows to generate a truth table
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
@@ -1283,7 +1288,6 @@
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [lKinderBueno/Streamity-Xtream-IPTV-Web-player](https://github.com/lKinderBueno/Streamity-Xtream-IPTV-Web-player) - Streamity.tv XTREAM Api. Advanced IPTV webplayer fully customizable with easy installer
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
 - [chocolatkey/DarkBetter](https://github.com/chocolatkey/DarkBetter) - Dark theme for ruTorrent, but better
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
