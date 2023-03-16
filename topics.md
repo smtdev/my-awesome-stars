@@ -1260,7 +1260,7 @@
 - [brettpetch/nightwalker](https://github.com/brettpetch/nightwalker) - A dark but not black qBittorrent WebUI
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
-- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your running Raspberry
+- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your active Raspberry
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
 - [chicolucio/truth-table-generator](https://github.com/chicolucio/truth-table-generator) - truth-table-generator is a tool that allows to generate a truth table
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
