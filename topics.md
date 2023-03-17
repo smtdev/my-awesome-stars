@@ -522,6 +522,7 @@
 
 ## database 
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [janishar/android-kotlin-mvp-architecture](https://github.com/janishar/android-kotlin-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture in Kotlin using Dagger2, Room, RxJava2, FastAndroidNetworking and PlaceholderView
 - [evernext10/Consuming-TheMovieDB-API-With-Retrofit-and-Save-SQLite](https://github.com/evernext10/Consuming-TheMovieDB-API-With-Retrofit-and-Save-SQLite) - The TheMovieDB.org API is consumed using Retrofit and saving the information in a SQLite for handling in Offline.
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java Database for Mobile & IoT - fast and lightweight
@@ -1023,6 +1024,7 @@
 
 ## kubernetes 
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -1169,6 +1171,7 @@
 
 ## monitoring 
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is an open-source complete SRE and DevOps platform.
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
