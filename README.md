@@ -774,6 +774,7 @@
 
 ## TypeScript 
 
+- [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - A ChatGPT clone for running locally in your browser.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is an open-source complete SRE and DevOps platform.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
