@@ -691,6 +691,7 @@
 
 ## Shell 
 
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [domingoruiz/Proxmox-Launcher](https://github.com/domingoruiz/Proxmox-Launcher) - Utilidad para acceder rápidamente a máquinas virtuales Proxmox
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup and restore your active Raspberry
@@ -721,7 +722,6 @@
 - [nozel-org/serverbot](https://github.com/nozel-org/serverbot) - Lightweight server monitoring and alert tool for Linux
 - [qcif/nextcloud-sync-cron](https://github.com/qcif/nextcloud-sync-cron) - Cron job script for running the Linux/Unix Nextcloud command line client
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
-- [wuseman/Synology](https://github.com/wuseman/Synology) - Cheatsheet and bash scripts sripts for Synology Nas Stations cheet cheat sheet nas networkdisk
 - [gclayburg/synology-diskstation-scripts](https://github.com/gclayburg/synology-diskstation-scripts) - Update Synology DNS records from DHCP IP address reservation
 - [unofficial-unifi/unifi-pfsense](https://github.com/unofficial-unifi/unifi-pfsense) - A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
 - [lephisto/pfsense-analytics](https://github.com/lephisto/pfsense-analytics) - Pfsense Analytics w/ Graylog, Elasticsearch, InfluxDB and Grafana fully dockerized for Firewall and DPI..
