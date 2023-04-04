@@ -593,7 +593,7 @@
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-- [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice is a tool that uses PowerShell automation to setup your Windows devices.
+- [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice makes setting up a new Windows device a child's play. Lay back and relax while it does some of the most common things that people usually do to setup a brand new device. It's all automatic ✨
 - [sexibytes/sexigraf](https://github.com/sexibytes/sexigraf) - SexiGraf is a vSphere centric Graphite appliance with a Grafana frontend.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
