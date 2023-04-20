@@ -90,7 +90,7 @@
 - [Corsinvest/cv4pve-botgram](https://github.com/Corsinvest/cv4pve-botgram) - Telegram Bot for Proxmox VE
 - [Corsinvest/cv4pve-cli](https://github.com/Corsinvest/cv4pve-cli) - Cli for Proxmox VE (Command Line Interfaces)
 - [Corsinvest/cv4pve-node-protect](https://github.com/Corsinvest/cv4pve-node-protect) - Proxmox VE protect configuration file nodes
-- [indiff/qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+- [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision & Manifest V3 webRequestBlocking limitations
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
