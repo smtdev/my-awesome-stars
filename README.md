@@ -6,7 +6,6 @@
 ## Contents
 
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
@@ -53,10 +52,6 @@
 - [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
 - [jacob5412/8086-Programs](https://github.com/jacob5412/8086-Programs) - ASM Programs on 8086
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-
-## Astro 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## AutoHotkey 
 
@@ -622,7 +617,7 @@
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
 - [chiraag-kakar/PyAutomation](https://github.com/chiraag-kakar/PyAutomation) - Simple and Useful Automation Tools built with the help of modules available with Python published at PyPI.
@@ -815,6 +810,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
