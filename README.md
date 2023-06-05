@@ -606,6 +606,7 @@
 
 ## PowerShell 
 
+- [CelesteHeartsong/SteamDeckAutomatedInstall](https://github.com/CelesteHeartsong/SteamDeckAutomatedInstall) - 
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
@@ -738,6 +739,7 @@
 
 ## Shell 
 
+- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, A
 - [XargonWan/RetroDECK](https://github.com/XargonWan/RetroDECK) - RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
 - [ryanrudolfoba/SteamDeck-Clover-dualboot](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot) - Script to install Clover - a graphical boot manager for the Steam Deck.
 - [scawp/Steam-Deck.Force-SteamOS-On-Boot](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - When Dual Booting, This Script will Force SteamOS to Boot when Powering on rather than Windows
@@ -826,7 +828,7 @@
 ## TypeScript 
 
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
