@@ -117,6 +117,7 @@
 
 ## C++ 
 
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [jlobue10/SteamDeck_rEFInd](https://github.com/jlobue10/SteamDeck_rEFInd) - Simple rEFInd install script for the Steam Deck (with GUI customization)
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
@@ -659,7 +660,7 @@
 - [codebox/mosaic](https://github.com/codebox/mosaic) - Python script for creating photomosaic images
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [vicalloy/telegram-shell-bot](https://github.com/vicalloy/telegram-shell-bot) - A telegram Bot to run shell commands
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
