@@ -289,7 +289,7 @@
 - [Omertron/api-themoviedb](https://github.com/Omertron/api-themoviedb) - API for TheMovieDb.org website
 - [markalence/rafiki](https://github.com/markalence/rafiki) - 
 - [firebase/quickstart-android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
-- [UweTrottmann/tmdb-java](https://github.com/UweTrottmann/tmdb-java) - A Java wrapper around themoviedb.org API v3 using retrofit2.
+- [UweTrottmann/tmdb-java](https://github.com/UweTrottmann/tmdb-java) - Java wrapper around themoviedb.org API v3 using retrofit2 (inofficial).
 - [holgerbrandl/themoviedbapi](https://github.com/holgerbrandl/themoviedbapi) - A java wrapper around the json api provided by TheMovieDB.org
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database for Mobile & IoT - fast and lightweight
 - [Tencent/tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
