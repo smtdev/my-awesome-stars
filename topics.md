@@ -230,6 +230,7 @@
 - [material-foundation/material-remixer-android](https://github.com/material-foundation/material-remixer-android) - Remixer for Android. Live adjustment of app variables.
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [firebase/quickstart-android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
+- [UweTrottmann/tmdb-java](https://github.com/UweTrottmann/tmdb-java) - Java wrapper around themoviedb.org API v3 using retrofit2 (inofficial).
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database for Mobile & IoT - fast and lightweight
 - [Tencent/tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -977,6 +978,7 @@
 - [kfazri75/CatalogMovie](https://github.com/kfazri75/CatalogMovie) - Apps For Search Movie from TheMovieDB API
 - [nisrulz/android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+- [UweTrottmann/tmdb-java](https://github.com/UweTrottmann/tmdb-java) - Java wrapper around themoviedb.org API v3 using retrofit2 (inofficial).
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database for Mobile & IoT - fast and lightweight
 - [permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - A declarative API to handle Android runtime permissions.
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
@@ -1469,7 +1471,6 @@
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [markalence/rafiki](https://github.com/markalence/rafiki) - 
-- [UweTrottmann/tmdb-java](https://github.com/UweTrottmann/tmdb-java) - A Java wrapper around themoviedb.org API v3 using retrofit2.
 - [holgerbrandl/themoviedbapi](https://github.com/holgerbrandl/themoviedbapi) - A java wrapper around the json api provided by TheMovieDB.org
 - [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
 - [android/android-test](https://github.com/android/android-test) - An extensive framework for testing Android apps
