@@ -29,6 +29,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -416,7 +417,6 @@
 
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - [🔥updating ...] AI 自动量化交易机器人 Qbot is an AI-oriented quantitative investment platform, which aims to realize the potential, empower AI technologies in quantitative investment. 📃 online docs: https://uf
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [chicolucio/truth-table-generator](https://github.com/chicolucio/truth-table-generator) - truth-table-generator is a tool that allows to generate a truth table
 - [worldveil/photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
@@ -479,6 +479,10 @@
 
 - [AbyssEngine/OpenDiablo2](https://github.com/AbyssEngine/OpenDiablo2) - An implementation of Diablo 2 in AbyssEngine.
 
+## MDX 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
 ## Makefile 
 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -494,7 +498,6 @@
 - [n1ckoates/steamdeck-emulation](https://github.com/n1ckoates/steamdeck-emulation) - 🎮 Guide to play emulated games on Steam Deck
 - [Abd-007/Switch-Emulators-Guide](https://github.com/Abd-007/Switch-Emulators-Guide) - A guide to get either Yuzu or Ryujinx running on your PC. Includes links for games, keys, firmware, shaders and some other stuff. Made for 128BitBay and r/NewYuzuPiracy.
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
-- [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) - papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Debl
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
@@ -640,6 +643,7 @@
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+- [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) - 
 - [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 - [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API B
