@@ -58,7 +58,7 @@
 
 ## AutoHotkey 
 
-- [DannyBen/FlicFlac](https://github.com/DannyBen/FlicFlac) - Tiny Portable Audio Converter for Windows (WAV FLAC MP3 OGG APE M4A AAC)
+- [DannyBen/FlicFlac](https://github.com/DannyBen/FlicFlac) - Tiny portable audio converter for Windows (WAV FLAC MP3 OGG APE M4A AAC)
 
 ## AutoIt 
 
