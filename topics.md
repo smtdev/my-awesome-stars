@@ -1509,7 +1509,7 @@
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
 - [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 - [MaDDoGo/metadata.filmaffinity.com](https://github.com/MaDDoGo/metadata.filmaffinity.com) - Scraper de filmaffinity para XBMC
-- [DannyBen/FlicFlac](https://github.com/DannyBen/FlicFlac) - Tiny Portable Audio Converter for Windows (WAV FLAC MP3 OGG APE M4A AAC)
+- [DannyBen/FlicFlac](https://github.com/DannyBen/FlicFlac) - Tiny portable audio converter for Windows (WAV FLAC MP3 OGG APE M4A AAC)
 - [aboullaite/Multi-Client-Server-chat-application](https://github.com/aboullaite/Multi-Client-Server-chat-application) - Socket Programming - Multi-Client Server chat application using java swing & Android
 - [binhex/arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker build script for Arch Linux base with Deluge, Privoxy and OpenVPN
 - [jlesage/docker-filebot](https://github.com/jlesage/docker-filebot) - Docker container for FileBot
