@@ -753,6 +753,7 @@
 
 ## Shell 
 
+- [cboiangiu/decky-dictation](https://github.com/cboiangiu/decky-dictation) - Allows speech to text input using Vosk and Nerd Dictation.
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, A
 - [XargonWan/RetroDECK](https://github.com/XargonWan/RetroDECK) - RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
 - [ryanrudolfoba/SteamDeck-Clover-dualboot](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot) - Script to install Clover - a graphical boot manager for the Steam Deck.
