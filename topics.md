@@ -1356,6 +1356,7 @@
 
 ## others 
 
+- [cboiangiu/decky-dictation](https://github.com/cboiangiu/decky-dictation) - Allows speech to text input using Vosk and Nerd Dictation.
 - [linux-china/chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
 - [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
 - [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
