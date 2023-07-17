@@ -496,6 +496,7 @@
 
 ## Others 
 
+- [remote-es/remotes](https://github.com/remote-es/remotes) - This is a repository listing companies which offer full-time remote jobs with Spanish contracts
 - [n1ckoates/steamdeck-emulation](https://github.com/n1ckoates/steamdeck-emulation) - 🎮 Guide to play emulated games on Steam Deck
 - [Abd-007/Switch-Emulators-Guide](https://github.com/Abd-007/Switch-Emulators-Guide) - A guide to get either Yuzu or Ryujinx running on your PC. Includes links for games, keys, firmware, shaders and some other stuff. Made for 128BitBay and r/NewYuzuPiracy.
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
