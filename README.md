@@ -740,7 +740,7 @@
 
 ## Rust 
 
-- [NGnius/PowerTools](https://github.com/NGnius/PowerTools) - Steam Deck power tweaks for power users
+- [NGnius/PowerTools](https://github.com/NGnius/PowerTools) - Moved to
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
