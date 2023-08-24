@@ -886,6 +886,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
@@ -1383,7 +1384,7 @@
 - [XargonWan/RetroDECK](https://github.com/XargonWan/RetroDECK) - RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
 - [scawp/Steam-Deck.Force-SteamOS-On-Boot](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - When Dual Booting, This Script will Force SteamOS to Boot when Powering on rather than Windows
 - [mKenfenheuer/steam-deck-windows-usermode-driver](https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver) - A windows usermode controller driver for the steam deck internal controller.
-- [NGnius/PowerTools](https://github.com/NGnius/PowerTools) - Steam Deck power tweaks for power users
+- [NGnius/PowerTools](https://github.com/NGnius/PowerTools) - Moved to
 - [jlobue10/SteamDeck_rEFInd](https://github.com/jlobue10/SteamDeck_rEFInd) - Simple rEFInd install script for the Steam Deck (with GUI customization)
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
