@@ -548,7 +548,7 @@
 - [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision & Manifest V3 webRequestBlocking limitations
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
@@ -708,7 +708,7 @@
 ## dotnet 
 
 - [Corsinvest/cv4pve-cli](https://github.com/Corsinvest/cv4pve-cli) - Cli for Proxmox VE (Command Line Interfaces)
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [henrikfroehling/Trakt.NET](https://github.com/henrikfroehling/Trakt.NET) - A .NET wrapper library with which developers can build .NET applications that integrate with the Trakt.tv API and access its features and data.
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
@@ -813,7 +813,7 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -866,7 +866,7 @@
 
 ## good-first-issue 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 
 ## google 
 
@@ -2072,7 +2072,7 @@
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
