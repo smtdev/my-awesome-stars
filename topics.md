@@ -424,7 +424,7 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-- [wuseman/Synology](https://github.com/wuseman/Synology) - Cheatsheet and bash scripts sripts for Synology Nas Stations cheet cheat sheet nas networkdisk
+- [wuseman/Synology](https://github.com/wuseman/Synology) - Explore a comprehensive cheatsheet and a collection of Bash scripts tailored for Synology NAS stations, designed to streamline network disk management.
 - [tonikelope/megadown](https://github.com/tonikelope/megadown) - Bash script for download files from mega.nz and megacrypter
 - [mitchellkrogza/linux-server-administration-scripts](https://github.com/mitchellkrogza/linux-server-administration-scripts) - Simple bash administration scripts for Linux to make your life easier.
 - [padosoft/proxmox-backup](https://github.com/padosoft/proxmox-backup) - Bash scripts to backup and restore proxmox server.
@@ -561,7 +561,7 @@
 
 ## css 
 
-- [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+- [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
@@ -918,7 +918,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-- [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+- [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
