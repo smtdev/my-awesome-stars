@@ -924,6 +924,7 @@
 - [n1ckoates/steamdeck-emulation](https://github.com/n1ckoates/steamdeck-emulation) - 🎮 Guide to play emulated games on Steam Deck
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -980,6 +981,7 @@
 - [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [exercism/java](https://github.com/exercism/java) - Exercism exercises in Java.
 - [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -1645,7 +1647,6 @@
 - [Ludomancer/VS2015-Dark-Npp](https://github.com/Ludomancer/VS2015-Dark-Npp) - Visual Studio 2015 Dark Theme for Notepad++
 - [segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid) - radio browser app that uses www.radio-browser.info on android
 - [Phoenix09/filebot](https://github.com/Phoenix09/filebot) - This is a fork of FileBot with an up-to-date JAR and MSI installer with the donate nag removed.
-- [exercism/java](https://github.com/exercism/java) - Exercism exercises in Java.
 - [DobyTang/LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) - This project isn't finished yet. Goal is to create a SickBeard, CouchPotato, Headphones-like application for ebooks. Headphones is used as a base, so there are still a lot of references to it.
 - [rembo10/headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
 - [AlexanderSofronov/iptv.example](https://github.com/AlexanderSofronov/iptv.example) - Example of a custom configured IPTV Android app based on IPTV Core.
@@ -2097,7 +2098,7 @@
 - [ayufan/steam-deck-tools](https://github.com/ayufan/steam-deck-tools) - (Windows) Steam Deck Tools - Fan, Overlay, Power Control and Steam Controller for Windows
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
-- [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
+- [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
