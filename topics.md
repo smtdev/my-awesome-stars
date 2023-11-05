@@ -1186,7 +1186,7 @@
 - [sajjadjaved01/iptv](https://github.com/sajjadjaved01/iptv) - Android project for live streaming IPTV
 - [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [Kotlin/kotlin-examples](https://github.com/Kotlin/kotlin-examples) - Various examples for Kotlin
-- [bennyhuo/Kotlin-Tutorials](https://github.com/bennyhuo/Kotlin-Tutorials) - 【持续更新中】本仓库持续记录以 Kotlin 为基础的视频内容的制作过程
+- [bennyhuo/Kotlin-Tutorials](https://github.com/bennyhuo/Kotlin-Tutorials) - 仓库持续记录以 Kotlin 为基础的视频内容的制作过程
 
 ## kubernetes 
 
