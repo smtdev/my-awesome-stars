@@ -1597,7 +1597,7 @@
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [markalence/rafiki](https://github.com/markalence/rafiki) - 
-- [holgerbrandl/themoviedbapi](https://github.com/holgerbrandl/themoviedbapi) - A java wrapper around the json api provided by TheMovieDB.org
+- [c-eg/themoviedbapi](https://github.com/c-eg/themoviedbapi) - A java wrapper around the json api provided by TheMovieDB.org
 - [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
 - [android/android-test](https://github.com/android/android-test) - An extensive framework for testing Android apps
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
