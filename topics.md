@@ -187,7 +187,7 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -337,7 +337,7 @@
 - [sean1832/SumGPT](https://github.com/sean1832/SumGPT) - Bulk summarization of documents using ChatGPT API
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 
 ## automation 
@@ -1017,7 +1017,7 @@
 ## home-assistant 
 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 
 ## homebridge 
 
@@ -1772,7 +1772,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API B
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
@@ -1948,7 +1948,7 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
