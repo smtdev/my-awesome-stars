@@ -296,7 +296,7 @@
 - [markalence/rafiki](https://github.com/markalence/rafiki) - 
 - [firebase/quickstart-android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 - [UweTrottmann/tmdb-java](https://github.com/UweTrottmann/tmdb-java) - Java wrapper around themoviedb.org API v3 using retrofit2 (inofficial).
-- [c-eg/themoviedbapi](https://github.com/c-eg/themoviedbapi) - A java wrapper around the json api provided by TheMovieDB.org
+- [c-eg/themoviedbapi](https://github.com/c-eg/themoviedbapi) - A Java wrapper around the JSON API provided by TheMovieDB.org
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java and Android Database - fast and lightweight without any ORM
 - [Tencent/tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
 - [commonsguy/cw-omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
@@ -599,7 +599,7 @@
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [AndrewPaglusch/FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - One-time encrypted password/secret sharing
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [VictorRobellini/pfSense-Dashboard](https://github.com/VictorRobellini/pfSense-Dashboard) - A functional and useful dashboard for pfSense that utilizes influxdb, grafana and telegraf
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
