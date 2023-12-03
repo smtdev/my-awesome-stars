@@ -1307,6 +1307,7 @@
 
 ## markdown 
 
+- [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -1453,6 +1454,7 @@
 
 ## others 
 
+- [afro-systems/lxc-guac-setup](https://github.com/afro-systems/lxc-guac-setup) - Proxmox - Debian 10 LXC Apache Guacamole
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [CookiePLMonster/SilentPatchBully](https://github.com/CookiePLMonster/SilentPatchBully) - SilentPatch for Bully: Scholarship Edition (fixes crashes on Windows 10)
@@ -1607,7 +1609,7 @@
 - [google/dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [akueisara/android-basics-nanodegree-by-google](https://github.com/akueisara/android-basics-nanodegree-by-google) - Projects for Udacity Android Basics Nanodegree
 - [DmitryMalkovich/popular-movies-app](https://github.com/DmitryMalkovich/popular-movies-app) - Popular Movies App is the second project in Udacity's Android Developer Nanodegree.
-- [ewintory/udacity-popular-movies](https://github.com/ewintory/udacity-popular-movies) - Android developer nanodegree, Projects 1 & 2: Popular Movies app
+- [EminYahyayev/udacity-popular-movies](https://github.com/EminYahyayev/udacity-popular-movies) - Android developer nanodegree, Projects 1 & 2: Popular Movies app
 - [wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) - This is an alphabetical list of libraries for Android development, the majority being actively maintained.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
