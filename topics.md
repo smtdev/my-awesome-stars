@@ -211,6 +211,8 @@
 
 ## android 
 
+- [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [aelassas/bookcars](https://github.com/aelassas/bookcars) - Car Rental Platform with Mobile App
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
@@ -354,6 +356,7 @@
 
 ## awesome 
 
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -388,6 +391,7 @@
 
 ## awesome-list 
 
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
@@ -1902,6 +1906,8 @@
 
 ## reverse-engineering 
 
+- [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
