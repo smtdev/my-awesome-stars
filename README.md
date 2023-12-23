@@ -810,7 +810,7 @@
 - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) - Docker container for HandBrake
 - [extremeshok/xshok-docker](https://github.com/extremeshok/xshok-docker) - Scripts for working with docker
 - [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
-- [nozel-org/serverbot](https://github.com/nozel-org/serverbot) - Lightweight server monitoring and alert tool for Linux
+- [nozel-org/linux-serverbot](https://github.com/nozel-org/linux-serverbot) - Lightweight server monitoring and alert tool for Linux
 - [qcif/nextcloud-sync-cron](https://github.com/qcif/nextcloud-sync-cron) - Cron job script for running the Linux/Unix Nextcloud command line client
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
 - [gclayburg/synology-diskstation-scripts](https://github.com/gclayburg/synology-diskstation-scripts) - Update Synology DNS records from DHCP IP address reservation
