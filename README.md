@@ -431,7 +431,6 @@
 
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
-- [cuynu/vancedx](https://github.com/cuynu/vancedx) - YouTube Vanced+ & YouTube Music Vanced+ Official Distribution
 - [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
 - [Ferfalk/SimpleSearchView](https://github.com/Ferfalk/SimpleSearchView) - A simple SearchView for Android based on Material Design
 - [mitchtabian/Clean-Notes](https://github.com/mitchtabian/Clean-Notes) - Clean Architecture by layer
@@ -601,6 +600,7 @@
 
 ## PHP 
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 86 file formats in 13 languages.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
@@ -759,6 +759,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [NGnius/PowerTools](https://github.com/NGnius/PowerTools) - Moved to
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
