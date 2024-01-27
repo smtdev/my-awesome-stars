@@ -78,6 +78,7 @@
 
 ## C 
 
+- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
 - [ipmitool/ipmitool](https://github.com/ipmitool/ipmitool) - An open-source tool for controlling IPMI-enabled systems
 - [clarkwang/passh](https://github.com/clarkwang/passh) - 𝐬𝐬𝐡𝐩𝐚𝐬𝐬 is 𝒃𝒓𝒐𝒌𝒆𝒏 by design
