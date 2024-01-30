@@ -507,6 +507,7 @@
 
 ## Others 
 
+- [m1rkwood/google-photos-takeout-scripts](https://github.com/m1rkwood/google-photos-takeout-scripts) - Useful scripts to get out of Google Photos
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [afro-systems/lxc-guac-setup](https://github.com/afro-systems/lxc-guac-setup) - Proxmox - Debian 10 LXC Apache Guacamole
@@ -789,6 +790,7 @@
 
 ## Shell 
 
+- [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a docker container.
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [StevenSeifried/proxmox-scripts](https://github.com/StevenSeifried/proxmox-scripts) - Scripts for Proxmox VE and Proxmox BS
 - [TheHellSite/archlinux_lxc](https://github.com/TheHellSite/archlinux_lxc) - A collection of some easy to use (Proxmox) Arch Linux LXC scripts.
