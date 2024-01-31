@@ -241,7 +241,7 @@
 - [kfazri75/CatalogMovie](https://github.com/kfazri75/CatalogMovie) - Apps For Search Movie from TheMovieDB API
 - [xaverkapeller/Searchable-RecyclerView-Demo](https://github.com/xaverkapeller/Searchable-RecyclerView-Demo) - An example app using a SearchView to filter items in a RecyclerView while taking full advantage of item animations!
 - [haroldadmin/MovieDB](https://github.com/haroldadmin/MovieDB) - A gorgeous TMDb client for Android
-- [setiawanp/tmdb-android](https://github.com/setiawanp/tmdb-android) - The Movie Database (TMDb) Android Application
+- [spaiman/tmdb-android](https://github.com/spaiman/tmdb-android) - The Movie Database (TMDb) Android Application
 - [thiagokimo/TMDb](https://github.com/thiagokimo/TMDb) - A simple Android client for The Movie DB in Material Design
 - [Skrilltrax/TheMovieDB](https://github.com/Skrilltrax/TheMovieDB) - TheMovieDB is an android app based on TMDB api.
 - [vipulshah2010/FirestoreMovies](https://github.com/vipulshah2010/FirestoreMovies) - Simple Movie application showcasing use of Firestore document based database.
