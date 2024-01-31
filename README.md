@@ -277,7 +277,7 @@
 - [liuyanggithub/SuperMvp](https://github.com/liuyanggithub/SuperMvp) - MVP“美”图+新闻+天气预报+Material+RxJava3+Retrofit2+Glide4+AndroidX+Leakcanary+Butterknife
 - [kfazri75/CatalogMovie](https://github.com/kfazri75/CatalogMovie) - Apps For Search Movie from TheMovieDB API
 - [xaverkapeller/Searchable-RecyclerView-Demo](https://github.com/xaverkapeller/Searchable-RecyclerView-Demo) - An example app using a SearchView to filter items in a RecyclerView while taking full advantage of item animations!
-- [setiawanp/tmdb-android](https://github.com/setiawanp/tmdb-android) - The Movie Database (TMDb) Android Application
+- [spaiman/tmdb-android](https://github.com/spaiman/tmdb-android) - The Movie Database (TMDb) Android Application
 - [frank-tan/Popular-Movies](https://github.com/frank-tan/Popular-Movies) - Discover the latest popular and top rated movies on your Android devices
 - [thiagokimo/TMDb](https://github.com/thiagokimo/TMDb) - A simple Android client for The Movie DB in Material Design
 - [delaroy/MoviesApp](https://github.com/delaroy/MoviesApp) - 
