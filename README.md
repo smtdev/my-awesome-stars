@@ -539,7 +539,7 @@
 - [UdelaRInterior/ansible-role-proxmox-create-lxc](https://github.com/UdelaRInterior/ansible-role-proxmox-create-lxc) - Ansible role to create an lxc container with network and several disks
 - [Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates) - Template file for new portainer setup
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [FuzzyGrim/docker-compose](https://github.com/FuzzyGrim/docker-compose) - Personal collection of docker-compose files.
@@ -633,7 +633,7 @@
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
-- [serghey-rodin/vesta](https://github.com/serghey-rodin/vesta) - VESTA Control Panel
+- [outroll/vesta](https://github.com/outroll/vesta) - VESTA Control Panel
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 
 ## PLSQL 
@@ -657,6 +657,7 @@
 
 ## Python 
 
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
