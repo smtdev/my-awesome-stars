@@ -780,6 +780,7 @@
 
 ## Rust 
 
+- [Proxtx/crontab_status](https://github.com/Proxtx/crontab_status) - Monitor your contab jobs. Get notified on failures
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [NGnius/PowerTools](https://github.com/NGnius/PowerTools) - Moved to
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -800,6 +801,8 @@
 
 ## Shell 
 
+- [ponceto/pve-bulk](https://github.com/ponceto/pve-bulk) - Utility to perform bulk actions for Proxmox VE [this repository is a mirror]
+- [itiligent/Guacamole-Install](https://github.com/itiligent/Guacamole-Install) - Easily install Gucamole with optional HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more.
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [wofferl/proxmox-backup-arm64](https://github.com/wofferl/proxmox-backup-arm64) - Script for building Proxmox Backup Server 3.x (Bookworm)  or 2.x (Bullseye) for Armbian64
 - [TheFreeman193/PIFS](https://github.com/TheFreeman193/PIFS) - A collection of build properties for the PIF module
@@ -893,6 +896,7 @@
 
 ## TypeScript 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [candiddev/homechart](https://github.com/candiddev/homechart) - A web platform for managing households
