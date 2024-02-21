@@ -315,6 +315,7 @@
 - [daniel-stoneuk/material-about-library](https://github.com/daniel-stoneuk/material-about-library) - Makes it easy to create beautiful about screens for your apps
 - [sajjadjaved01/iptv](https://github.com/sajjadjaved01/iptv) - Android project for live streaming IPTV
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [Amejia481/Associate-Android-Developer-Certification](https://github.com/Amejia481/Associate-Android-Developer-Certification) - All the info and materials about the certification that I've collected so far
 
 ## angular 
@@ -628,6 +629,7 @@
 
 ## data-science 
 
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 
 ## data-structures 
@@ -1314,6 +1316,7 @@
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 
@@ -1356,6 +1359,7 @@
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## markdown 
 
@@ -1517,6 +1521,8 @@
 
 ## others 
 
+- [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
+- [moerphin/vzdump2influx](https://github.com/moerphin/vzdump2influx) - Proxmox backup stats to InfluxDB
 - [mwood77/pf2opn](https://github.com/mwood77/pf2opn) - An in-browser pfsense to opnsense converter.
 - [ponceto/pve-bulk](https://github.com/ponceto/pve-bulk) - Utility to perform bulk actions for Proxmox VE [this repository is a mirror]
 - [Proxtx/crontab_status](https://github.com/Proxtx/crontab_status) - Monitor your contab jobs. Get notified on failures
@@ -2318,6 +2324,7 @@
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## xcode 
 
