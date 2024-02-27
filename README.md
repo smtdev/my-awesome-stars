@@ -53,7 +53,7 @@
 
 ## Assembly 
 
-- [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
+- [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 - [jacob5412/8086-Programs](https://github.com/jacob5412/8086-Programs) - ASM Programs on 8086
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
@@ -687,7 +687,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - A LLM based research assistant that allows you to have a conversation with a research paper
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
