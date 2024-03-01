@@ -806,6 +806,7 @@
 
 ## Shell 
 
+- [douginoz/grafana-plex](https://github.com/douginoz/grafana-plex) - grafana service monitoring for Plex and underlying services
 - [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
 - [moerphin/vzdump2influx](https://github.com/moerphin/vzdump2influx) - Proxmox backup stats to InfluxDB
 - [ponceto/pve-bulk](https://github.com/ponceto/pve-bulk) - Utility to perform bulk actions for Proxmox VE [this repository is a mirror]
