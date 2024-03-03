@@ -810,6 +810,7 @@
 
 ## Shell 
 
+- [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
 - [ryanrudolfoba/SteamOS-Waydroid-Installer](https://github.com/ryanrudolfoba/SteamOS-Waydroid-Installer) - Script to easily install / uninstall Android via Waydroid on the Steam Deck running on SteamOS.
 - [douginoz/grafana-plex](https://github.com/douginoz/grafana-plex) - grafana service monitoring for Plex and underlying services
