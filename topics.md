@@ -2088,6 +2088,7 @@
 
 ## self-hosted 
 
+- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
