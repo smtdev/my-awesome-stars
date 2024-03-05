@@ -133,7 +133,6 @@
 - [daboynb/PlayIntegrityNEXT](https://github.com/daboynb/PlayIntegrityNEXT) - 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [CookiePLMonster/SilentPatchBully](https://github.com/CookiePLMonster/SilentPatchBully) - SilentPatch for Bully: Scholarship Edition (fixes crashes on Windows 10)
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [jlobue10/SteamDeck_rEFInd](https://github.com/jlobue10/SteamDeck_rEFInd) - Simple rEFInd install script for the Steam Deck (with GUI customization)
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
@@ -913,6 +912,7 @@
 
 ## TypeScript 
 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [mwood77/pf2opn](https://github.com/mwood77/pf2opn) - An in-browser pfsense to opnsense converter.
