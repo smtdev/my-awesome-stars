@@ -248,6 +248,7 @@
 - [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
 - [StegSchreck/RatS](https://github.com/StegSchreck/RatS) - Movie Ratings Synchronization with Python
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+- [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [dsantosmerino/filmaffinity-api](https://github.com/dsantosmerino/filmaffinity-api) - filmaffinity.com read-only unofficial API
 - [orobardet/dsm-reverse-proxy-websocket](https://github.com/orobardet/dsm-reverse-proxy-websocket) - Configuration fix for Synology DSM 6 reverse proxy to handle websocket
 - [germaaan/trabajos_universidad](https://github.com/germaaan/trabajos_universidad) - Recopilación de todos los trabajos (recuperables) hechos durante mi trayecto en la Universidad de Granada
@@ -343,7 +344,6 @@
 - [maksim-m/Popular-Movies-App](https://github.com/maksim-m/Popular-Movies-App) - A simple Android app, that helps user to discover movies. Project 1 & 2 of Udacity Android Developer Nanodegree.
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [sooshin/android-popular-movies-app](https://github.com/sooshin/android-popular-movies-app) - Popular Movies App project for Udacity Android Developer Nanodegree. Integrated the Paging library, LiveData, ViewModel, DataBinding, Room, MVVM architecture and Repository pattern.
-- [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [aboullaite/Multi-Client-Server-chat-application](https://github.com/aboullaite/Multi-Client-Server-chat-application) - Socket Programming - Multi-Client Server chat application using java swing & Android
 - [janishar/android-mvp-architecture](https://github.com/janishar/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2,  GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
