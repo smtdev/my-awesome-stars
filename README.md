@@ -184,6 +184,7 @@
 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
+- [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [oznu/docker-guacamole](https://github.com/oznu/docker-guacamole) - A self-contained guacamole docker container for x64 and ARM. Remotely connect over SSH, RDP or VNC using HTML5.
@@ -558,7 +559,6 @@
 - [Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates) - Template file for new portainer setup
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
-- [abhilesh/self-hosted_docker_setups](https://github.com/abhilesh/self-hosted_docker_setups) - A collection of my docker-compose files used to setup self-hosted services on Raspberry Pi 4 running 64-bit Raspberry Pi OS
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [FuzzyGrim/docker-compose](https://github.com/FuzzyGrim/docker-compose) - Personal collection of docker-compose files.
 - [Androthi/cCalc](https://github.com/Androthi/cCalc) - a binary calculator using x/86 instructions
@@ -686,7 +686,7 @@
 - [georgewhewell/undervolt](https://github.com/georgewhewell/undervolt) - Undervolt Intel CPUs under Linux
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Providing AI Software Company, Towards Natural Language Programming
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [sean1832/SumGPT](https://github.com/sean1832/SumGPT) - Bulk summarization of documents using ChatGPT API
