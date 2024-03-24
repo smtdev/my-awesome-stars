@@ -46,7 +46,6 @@
 - [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Visual Basic](#visual-basic)
@@ -84,6 +83,7 @@
 
 ## C 
 
+- [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
@@ -242,6 +242,7 @@
 ## HTML 
 
 - [bukosabino/justicio](https://github.com/bukosabino/justicio) - Building an assistant for Boletin Oficial del Estado (BOE) using Retrieval Augmented Generation (RAG)
+- [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [shubham1710/ByteWalk](https://github.com/shubham1710/ByteWalk) - A social media photo-sharing website built on the Django Framework.
 - [OpenLake/Photo-Sharing-App](https://github.com/OpenLake/Photo-Sharing-App) - Upload group photos, arrange them by faces using ML and share them with ease. 🤳🤖
@@ -924,10 +925,6 @@
 - [mcrapet/plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites
 - [interfect/odrive-copy](https://github.com/interfect/odrive-copy) - Recursive copy script for odrive to copy files from could to cloud
 - [ajkis/scripts](https://github.com/ajkis/scripts) - Ajki's scripts & guides
-
-## Svelte 
-
-- [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 
 ## Swift 
 
