@@ -1575,6 +1575,7 @@
 
 ## others 
 
+- [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
