@@ -281,7 +281,7 @@
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 - [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers
 - [michaelbel/YouShows](https://github.com/michaelbel/YouShows) - Simple app to track and save your TV shows
-- [michaelbel/movies](https://github.com/michaelbel/movies) - Discover movies app
+- [michaelbel/movies](https://github.com/michaelbel/movies) - Discover movies app illustrating Kotlin Multiplatform development best practices
 - [Alifyz/Android-Certification](https://github.com/Alifyz/Android-Certification) - Associate Developer Certification Exam Guide
 - [Madonahs/Nano-Degree-Projects](https://github.com/Madonahs/Nano-Degree-Projects) - 🎓  Udacity Nano Degree Android Projects. All Needed projects you can check out my work here. Submitted and accepted projects.
 - [Gismo8/Android_Basics_Nanodegree_by_Google-My_10_Projects](https://github.com/Gismo8/Android_Basics_Nanodegree_by_Google-My_10_Projects) - All of my completed Android Basics Nanodegree by Google projects.
@@ -1252,7 +1252,7 @@
 - [permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - A declarative API to handle Android runtime permissions.
 - [iammert/ReadableBottomBar](https://github.com/iammert/ReadableBottomBar) - Yet another material bottom bar library for Android
 - [android10/Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) - This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.
-- [michaelbel/movies](https://github.com/michaelbel/movies) - Discover movies app
+- [michaelbel/movies](https://github.com/michaelbel/movies) - Discover movies app illustrating Kotlin Multiplatform development best practices
 - [vmadalin/android-modular-architecture](https://github.com/vmadalin/android-modular-architecture) - 📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
 - [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
@@ -1449,7 +1449,7 @@
 
 - [aelassas/bookcars](https://github.com/aelassas/bookcars) - Car Rental Platform with Mobile App
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java and Android Database - fast and lightweight without any ORM
-- [michaelbel/movies](https://github.com/michaelbel/movies) - Discover movies app
+- [michaelbel/movies](https://github.com/michaelbel/movies) - Discover movies app illustrating Kotlin Multiplatform development best practices
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 ## mongodb 
@@ -1468,7 +1468,7 @@
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
+- [roxy-wi/roxy-wi](https://github.com/roxy-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [nozel-org/linux-serverbot](https://github.com/nozel-org/linux-serverbot) - Lightweight server monitoring and alert tool for Linux
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
