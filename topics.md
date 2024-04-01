@@ -1598,6 +1598,7 @@
 
 ## others 
 
+- [carlosramosa/api-filmaffinity](https://github.com/carlosramosa/api-filmaffinity) - API REST no oficial de Filmaffinity en castellano
 - [YAMJ/api-trakttv](https://github.com/YAMJ/api-trakttv) - API for the Trakt.TV Site
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
