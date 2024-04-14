@@ -172,6 +172,7 @@
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
 - [swift](#swift)
 - [telegram](#telegram)
@@ -2296,6 +2297,13 @@
 - [evernext10/Consuming-TheMovieDB-API-With-Retrofit-and-Save-SQLite](https://github.com/evernext10/Consuming-TheMovieDB-API-With-Retrofit-and-Save-SQLite) - The TheMovieDB.org API is consumed using Retrofit and saving the information in a SQLite for handling in Offline.
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java and Android Database - fast and lightweight without any ORM
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
+
+## stable-diffusion 
+
+- [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## svelte 
 
