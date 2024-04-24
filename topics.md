@@ -58,6 +58,7 @@
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
+- [embedded](#embedded)
 - [emulator](#emulator)
 - [es6](#es6)
 - [finance](#finance)
@@ -844,6 +845,10 @@
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
+
+## embedded 
+
+- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java and Android Database - fast and lightweight without any ORM
 
 ## emulator 
 
