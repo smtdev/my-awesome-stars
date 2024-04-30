@@ -1780,7 +1780,7 @@
 - [sexibytes/sexigraf](https://github.com/sexibytes/sexigraf) - SexiGraf is a vSphere centric Graphite appliance with a Grafana frontend.
 - [barisozmen/system-design-resources](https://github.com/barisozmen/system-design-resources) - 
 - [danfickle/pretty-resume](https://github.com/danfickle/pretty-resume) - Generate a pretty resume! Templates based on salomonelli/best-resume-ever.
-- [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
+- [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [deano2390/MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) - A Material Design themed ShowcaseView for Android
 - [k0shk0sh/Android-MVP-for-dummies](https://github.com/k0shk0sh/Android-MVP-for-dummies) - this is simple application demonstrate how structuring MVP project in Android.
 - [jd-alexander/LikeButton](https://github.com/jd-alexander/LikeButton) - Twitter's heart animation for Android
