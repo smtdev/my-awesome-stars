@@ -588,7 +588,7 @@
 - [skillaci86/Roborok-S5Max-Package](https://github.com/skillaci86/Roborok-S5Max-Package) - Gestione Roborock S5Max da HomeAssistant
 - [barisozmen/system-design-resources](https://github.com/barisozmen/system-design-resources) - 
 - [StanForever/awesome-websites](https://github.com/StanForever/awesome-websites) - A curated list of awesome websites
-- [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
+- [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [dwyl/learn-dart](https://github.com/dwyl/learn-dart) - 🎯Learn the Dart programming language to build cross-platform (Mobile, Web & Desktop) Apps with Flutter!
 - [codepath/android_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
 - [JoseAlcerreca/android-lifecycles](https://github.com/JoseAlcerreca/android-lifecycles) - 
