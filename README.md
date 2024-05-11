@@ -193,6 +193,7 @@
 
 ## Go 
 
+- [algolia/sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -272,6 +273,7 @@
 
 ## Java 
 
+- [LordK1/Trakt.tv](https://github.com/LordK1/Trakt.tv) - Self Experieced project in Android Development via Google Data Binding desing pattern and some more ...
 - [jpelgrom/retrofit2-oauthrefresh](https://github.com/jpelgrom/retrofit2-oauthrefresh) - Example on how to authenticate using Retrofit 2 + OAuth 2, including automatic use of the refresh token when necessary
 - [mohsenoid/trakt.tv](https://github.com/mohsenoid/trakt.tv) - Trakt.tv Android Application Assigned by Trivago
 - [chashmeetsingh/TrackMyShows](https://github.com/chashmeetsingh/TrackMyShows) - TrackMyShows
@@ -477,6 +479,7 @@
 
 ## Kotlin 
 
+- [gsttarun/Relay-for-Trakt.tv](https://github.com/gsttarun/Relay-for-Trakt.tv) - An Android App to access Trakt.tv
 - [michaldrabik/showly-2.0](https://github.com/michaldrabik/showly-2.0) - Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.
 - [MikeOrtiz/TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
 - [vpaliy/android-movies-app](https://github.com/vpaliy/android-movies-app) - 
@@ -696,7 +699,7 @@
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-- [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - WinRice makes setting up a new Windows device a child's play. Lay back and relax while it does some of the most common things that people usually do to setup a brand new device. It's all automatic. ✨
+- [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - Set up your brand new Windows devices up to a breathtaking 60 times faster.
 - [sexibytes/sexigraf](https://github.com/sexibytes/sexigraf) - SexiGraf is a vSphere centric Graphite appliance with a Grafana frontend.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
