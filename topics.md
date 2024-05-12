@@ -1178,6 +1178,7 @@
 
 ## java 
 
+- [reboot/trakt](https://github.com/reboot/trakt) - Java libraries for Trakt.tv
 - [red-coracle/episodes](https://github.com/red-coracle/episodes) - Keep track of which television show episodes you've seen!
 - [saarthak08/Movies-Index](https://github.com/saarthak08/Movies-Index) - An android application which shows the list & information of movies from The Movie Database API (TMDb) & allows to download their torrent files from YIFY.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
@@ -1358,6 +1359,7 @@
 
 ## library 
 
+- [reboot/trakt](https://github.com/reboot/trakt) - Java libraries for Trakt.tv
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
