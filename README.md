@@ -273,6 +273,7 @@
 
 ## Java 
 
+- [reboot/trakt](https://github.com/reboot/trakt) - Java libraries for Trakt.tv
 - [LordK1/Trakt.tv](https://github.com/LordK1/Trakt.tv) - Self Experieced project in Android Development via Google Data Binding desing pattern and some more ...
 - [jpelgrom/retrofit2-oauthrefresh](https://github.com/jpelgrom/retrofit2-oauthrefresh) - Example on how to authenticate using Retrofit 2 + OAuth 2, including automatic use of the refresh token when necessary
 - [mohsenoid/trakt.tv](https://github.com/mohsenoid/trakt.tv) - Trakt.tv Android Application Assigned by Trivago
