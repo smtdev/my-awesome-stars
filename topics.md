@@ -1665,6 +1665,7 @@
 
 ## others 
 
+- [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud
 - [LordK1/Trakt.tv](https://github.com/LordK1/Trakt.tv) - Self Experieced project in Android Development via Google Data Binding desing pattern and some more ...
 - [gsttarun/Relay-for-Trakt.tv](https://github.com/gsttarun/Relay-for-Trakt.tv) - An Android App to access Trakt.tv
 - [jpelgrom/retrofit2-oauthrefresh](https://github.com/jpelgrom/retrofit2-oauthrefresh) - Example on how to authenticate using Retrofit 2 + OAuth 2, including automatic use of the refresh token when necessary
