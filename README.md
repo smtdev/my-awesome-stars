@@ -803,7 +803,6 @@
 - [Link009/LPEX](https://github.com/Link009/LPEX) - Detect vehicles license plate location
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [MaDDoGo/metadata.filmaffinity.com](https://github.com/MaDDoGo/metadata.filmaffinity.com) - Scraper de filmaffinity para XBMC
-- [foxmask/joplin-web](https://github.com/foxmask/joplin-web) - :snake: :books: Web application companion for Joplin
 - [FredHutch/proxmox-tools](https://github.com/FredHutch/proxmox-tools) - prox command line interface for proxmox and other tools and customizations
 - [ossobv/proxmove](https://github.com/ossobv/proxmove) - Migrate virtual machines between different Proxmox VE clusters with minimal downtime
 - [HyperSine/how-does-MobaXterm-encrypt-password](https://github.com/HyperSine/how-does-MobaXterm-encrypt-password) - This repo offers a tool to reveal password encrypted by MobaXterm.
