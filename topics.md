@@ -757,7 +757,6 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
-- [foxmask/joplin-web](https://github.com/foxmask/joplin-web) - :snake: :books: Web application companion for Joplin
 
 ## docker 
 
@@ -1126,7 +1125,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
-- [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) - AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose-jb environments
 - [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -2099,7 +2097,6 @@
 - [chiraag-kakar/PyAutomation](https://github.com/chiraag-kakar/PyAutomation) - Simple and Useful Automation Tools built with the help of modules available with Python published at PyPI.
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-- [foxmask/joplin-web](https://github.com/foxmask/joplin-web) - :snake: :books: Web application companion for Joplin
 
 ## pytorch 
 
