@@ -137,7 +137,7 @@
 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [daboynb/PlayIntegrityNEXT](https://github.com/daboynb/PlayIntegrityNEXT) - 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [CookiePLMonster/SilentPatchBully](https://github.com/CookiePLMonster/SilentPatchBully) - SilentPatch for Bully: Scholarship Edition (fixes crashes on Windows 10)
 - [jlobue10/SteamDeck_rEFInd](https://github.com/jlobue10/SteamDeck_rEFInd) - Simple rEFInd install script for the Steam Deck (with GUI customization)
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
