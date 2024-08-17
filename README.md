@@ -164,7 +164,6 @@
 - [chocolatkey/DarkBetter](https://github.com/chocolatkey/DarkBetter) - Dark theme for ruTorrent, but better
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 
 ## Clojure 
@@ -342,7 +341,6 @@
 - [material-foundation/material-remixer-android](https://github.com/material-foundation/material-remixer-android) - Remixer for Android. Live adjustment of app variables.
 - [Omertron/api-themoviedb](https://github.com/Omertron/api-themoviedb) - API for TheMovieDb.org website
 - [markalence/rafiki](https://github.com/markalence/rafiki) - 
-- [firebase/quickstart-android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 - [UweTrottmann/tmdb-java](https://github.com/UweTrottmann/tmdb-java) - Java wrapper around themoviedb.org API v3 using retrofit2 (inofficial).
 - [c-eg/themoviedbapi](https://github.com/c-eg/themoviedbapi) - A Java wrapper around the JSON API provided by TheMovieDB.org
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database - first and fast, lightweight on-device vector database
@@ -449,6 +447,7 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [amarcu5/PiPer](https://github.com/amarcu5/PiPer) - Browser extension that adds Picture in Picture support to YouTube, Netflix, Amazon Video, Twitch, Plex, and more!
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -508,6 +507,7 @@
 - [skydoves/BaseRecyclerViewAdapter](https://github.com/skydoves/BaseRecyclerViewAdapter) - ⚡ Fast way to bind RecyclerView adapter and ViewHolder for implementing clean sections.
 - [Mustafashahoud/MoviesApp](https://github.com/Mustafashahoud/MoviesApp) - A Movie Application uses TheMovie API, MVVM architecture and all jetpack components.
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [firebase/quickstart-android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 - [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
@@ -561,6 +561,7 @@
 
 ## Others 
 
+- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [gummiflip/minecraft-server-Proxmox](https://github.com/gummiflip/minecraft-server-Proxmox) - 🎮 Minecraft Server on Debian in Proxmox CT 🛠️
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
@@ -842,6 +843,7 @@
 
 ## Rust 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [proxmox/proxmox-backup](https://github.com/proxmox/proxmox-backup) - Proxmox Backup Server and Client - read only mirror
