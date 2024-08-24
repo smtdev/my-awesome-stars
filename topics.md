@@ -2164,7 +2164,7 @@
 ## raspberry-pi 
 
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
-- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup your Raspberry
+- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Create and keep multiple backup versions of your running Raspberries
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
@@ -2480,7 +2480,7 @@
 
 ## ubuntu 
 
-- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Backup your Raspberry
+- [framps/raspiBackup](https://github.com/framps/raspiBackup) - Create and keep multiple backup versions of your running Raspberries
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
