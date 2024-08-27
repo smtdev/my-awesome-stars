@@ -598,7 +598,7 @@
 - [Androthi/cCalc](https://github.com/Androthi/cCalc) - a binary calculator using x/86 instructions
 - [null-burn/nginx-proxy-manager-goaccess](https://github.com/null-burn/nginx-proxy-manager-goaccess) - NGINX Proxy Manager and Goaccess docker file
 - [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [skillaci86/Roborok-S5Max-Package](https://github.com/skillaci86/Roborok-S5Max-Package) - Gestione Roborock S5Max da HomeAssistant
@@ -876,7 +876,7 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [fdcastel/Proxmox-Automation](https://github.com/fdcastel/Proxmox-Automation) - Collection of scripts to manage Proxmox environments.
 - [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles) - 🧰 ~ • My Đotfiles
-- [hoverbike1/TOTK-Mods-collection](https://github.com/hoverbike1/TOTK-Mods-collection) - Mod repo for TOTK on Yuzu emulator.
+- [hoverbike1/TOTK-Mods-collection](https://github.com/hoverbike1/TOTK-Mods-collection) - Mod repo for Tears of The Kingdom (TOTK) for Switch and Switch Emulation
 - [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [ryanrudolfoba/SteamOS-Waydroid-Installer](https://github.com/ryanrudolfoba/SteamOS-Waydroid-Installer) - Script to easily install / uninstall Android via Waydroid on the Steam Deck running on SteamOS.
