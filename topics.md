@@ -28,6 +28,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -552,6 +553,20 @@
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 
+## chatbot 
+
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+- [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
+- [Anil-matcha/ChatPDF](https://github.com/Anil-matcha/ChatPDF) - Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
+- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
+
 ## chatgpt 
 
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
@@ -709,7 +724,7 @@
 ## data-visualization 
 
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## database 
 
@@ -722,7 +737,7 @@
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database - first and fast, lightweight on-device vector database
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
 - [MatrixDev/Roomigrant](https://github.com/MatrixDev/Roomigrant) - Automated Android Room ORM migrations generator with compile-time code generation
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## deep-learning 
 
@@ -770,7 +785,7 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## django 
 
@@ -831,7 +846,7 @@
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
 
 ## documentation 
@@ -1366,7 +1381,7 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## language 
 
@@ -1444,7 +1459,7 @@
 - [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 
 ## llm 
@@ -1494,7 +1509,7 @@
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## macos 
 
@@ -1570,7 +1585,7 @@
 - [aelassas/bookcars](https://github.com/aelassas/bookcars) - Car Rental Platform with Mobile App
 - [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## monitoring 
 
@@ -1587,7 +1602,7 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## music 
 
@@ -1601,7 +1616,7 @@
 
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [MysticRyuujin/guac-install](https://github.com/MysticRyuujin/guac-install) - Script for installing Guacamole on Ubuntu
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## natural-language-processing 
 
@@ -2038,7 +2053,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## powershell 
 
@@ -2175,7 +2190,7 @@
 - [lkd70/PiHole-Dark](https://github.com/lkd70/PiHole-Dark) - A Dark theme for the pihole admin page.
 - [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
 ## react 
 
