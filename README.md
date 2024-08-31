@@ -410,7 +410,7 @@
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- [UweTrottmann/trakt-java](https://github.com/UweTrottmann/trakt-java) - An unofficial Java wrapper around the Trakt v2 API using retrofit 2.
+- [UweTrottmann/trakt-java](https://github.com/UweTrottmann/trakt-java) - An (unofficial) Java library to use the Trakt v2 API built with retrofit 2
 
 ## JavaScript 
 
