@@ -264,6 +264,7 @@
 - [dsantosmerino/filmaffinity-api](https://github.com/dsantosmerino/filmaffinity-api) - filmaffinity.com read-only unofficial API
 - [orobardet/dsm-reverse-proxy-websocket](https://github.com/orobardet/dsm-reverse-proxy-websocket) - Configuration fix for Synology DSM 6 reverse proxy to handle websocket
 - [germaaan/trabajos_universidad](https://github.com/germaaan/trabajos_universidad) - Recopilación de todos los trabajos (recuperables) hechos durante mi trayecto en la Universidad de Granada
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 
 ## Hack 
 
@@ -463,7 +464,6 @@
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [lokenx/plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) - Meteor version of the original Plex Requests
 - [DriverPackSolution/DriverPack-Solution](https://github.com/DriverPackSolution/DriverPack-Solution) - DriverPack Solution — is the most popular program that makes the job of finding and automatically installing drivers a pleasure. DriverPack Software is subject to GNU GPL v2 as the end-user license (u
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 
 ## Jinja 
@@ -711,6 +711,7 @@
 
 ## Python 
 
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
