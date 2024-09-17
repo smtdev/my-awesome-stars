@@ -801,6 +801,7 @@
 
 ## docker 
 
+- [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -1598,6 +1599,7 @@
 
 ## monitoring 
 
+- [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
@@ -1665,6 +1667,7 @@
 
 ## nodejs 
 
+- [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [aelassas/bookcars](https://github.com/aelassas/bookcars) - Car Rental Platform with Mobile App
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -1811,7 +1814,7 @@
 - [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) - 
 - [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - [ICCV 2023] Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
 - [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) - papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Debl
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [Miserlou/Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
@@ -2205,6 +2208,7 @@
 
 ## react 
 
+- [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
@@ -2317,6 +2321,7 @@
 
 ## self-hosted 
 
+- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -2366,6 +2371,7 @@
 
 ## server 
 
+- [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [gummiflip/minecraft-server-Proxmox](https://github.com/gummiflip/minecraft-server-Proxmox) - 🎮 Minecraft Server on Debian in Proxmox CT 🛠️
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
@@ -2528,6 +2534,7 @@
 
 ## vue 
 
+- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
