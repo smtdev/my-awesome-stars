@@ -246,6 +246,7 @@
 
 ## android 
 
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [chashmeetsingh/TrackMyShows](https://github.com/chashmeetsingh/TrackMyShows) - TrackMyShows
 - [red-coracle/episodes](https://github.com/red-coracle/episodes) - Keep track of which television show episodes you've seen!
@@ -1243,6 +1244,7 @@
 
 ## java 
 
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [reboot/trakt](https://github.com/reboot/trakt) - Java libraries for Trakt.tv
 - [red-coracle/episodes](https://github.com/red-coracle/episodes) - Keep track of which television show episodes you've seen!
 - [saarthak08/Movies-Index](https://github.com/saarthak08/Movies-Index) - An android application which shows the list & information of movies from The Movie Database API (TMDb) & allows to download their torrent files from YIFY.
