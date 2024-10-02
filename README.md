@@ -123,7 +123,6 @@
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Corsinvest/cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) - Automatic snapshot tool for Proxmox VE
 - [jaquadro/NBTExplorer](https://github.com/jaquadro/NBTExplorer) - A graphical NBT editor for all Minecraft NBT data sources
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [Clouz/SynoAPI](https://github.com/Clouz/SynoAPI) - Synology Download Station and File Station API for C#
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
