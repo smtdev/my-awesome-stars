@@ -1125,6 +1125,7 @@
 - [shubham1710/ByteWalk](https://github.com/shubham1710/ByteWalk) - A social media photo-sharing website built on the Django Framework.
 - [OpenLake/Photo-Sharing-App](https://github.com/OpenLake/Photo-Sharing-App) - Upload group photos, arrange them by faces using ML and share them with ease. 🤳🤖
 - [n1ckoates/steamdeck-emulation](https://github.com/n1ckoates/steamdeck-emulation) - 🎮 Guide to play emulated games on Steam Deck
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
