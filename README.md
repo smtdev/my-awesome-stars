@@ -421,6 +421,7 @@
 
 ## JavaScript 
 
+- [fwartner/homeassistant-config](https://github.com/fwartner/homeassistant-config) - My personal home assistant configuation files
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 - [carlosramosa/api-filmaffinity](https://github.com/carlosramosa/api-filmaffinity) - API REST no oficial de Filmaffinity en castellano
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
