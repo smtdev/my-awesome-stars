@@ -1765,6 +1765,7 @@
 
 ## others 
 
+- [fwartner/homeassistant-config](https://github.com/fwartner/homeassistant-config) - My personal home assistant configuation files
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [Rick45/quick-arr-Stack](https://github.com/Rick45/quick-arr-Stack) - Quick start on ARR stack with home VPN
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
