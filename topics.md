@@ -250,7 +250,7 @@
 
 ## android 
 
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [chashmeetsingh/TrackMyShows](https://github.com/chashmeetsingh/TrackMyShows) - TrackMyShows
@@ -421,7 +421,7 @@
 
 ## awesome 
 
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
@@ -461,7 +461,7 @@
 
 ## awesome-list 
 
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
