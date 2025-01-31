@@ -193,6 +193,7 @@
 
 ## Go 
 
+- [yusing/go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
@@ -257,6 +258,7 @@
 
 ## HTML 
 
+- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [bukosabino/justicio](https://github.com/bukosabino/justicio) - Building an assistant for Boletin Oficial del Estado (BOE) using Retrieval Augmented Generation (RAG)
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
@@ -321,7 +323,7 @@
 - [ArthurHub/Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) - Image Cropping Library for Android, optimized for Camera / Gallery.
 - [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [aws1994/NightModeDemo2](https://github.com/aws1994/NightModeDemo2) - 
-- [vipulasri/Timeline-View](https://github.com/vipulasri/Timeline-View) - Timeline View is a highly customizable library for creating visually appealing timeline-based UIs such as shipment/order tracking, step progress indicators, and more.
+- [vipulasri/Timeline-View](https://github.com/vipulasri/Timeline-View) - Timeline View is a highly customizable android library for creating shipment/order tracking, step progress indicators, etc.
 - [JoanZapata/android-iconify](https://github.com/JoanZapata/android-iconify) - Android integration of multiple icon providers such as FontAwesome, Entypo, Typicons,...
 - [jingle1267/android-utils](https://github.com/jingle1267/android-utils) - It contains most of the Android utility classes.
 - [datanapps/AndroidUtility](https://github.com/datanapps/AndroidUtility) - An android utility library for use log, snackbar, dateUtils, Collection utils and many more
