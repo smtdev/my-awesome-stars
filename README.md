@@ -290,7 +290,6 @@
 ## Java 
 
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
-- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
 - [reboot/trakt](https://github.com/reboot/trakt) - Java libraries for Trakt.tv
 - [LordK1/Trakt.tv](https://github.com/LordK1/Trakt.tv) - Self Experieced project in Android Development via Google Data Binding desing pattern and some more ...
 - [jpelgrom/retrofit2-oauthrefresh](https://github.com/jpelgrom/retrofit2-oauthrefresh) - Example on how to authenticate using Retrofit 2 + OAuth 2, including automatic use of the refresh token when necessary
@@ -1092,6 +1091,7 @@
 ## Vue 
 
 - [DeanWard/CaddyGen](https://github.com/DeanWard/CaddyGen) - Simplify Caddy configs with SSL, proxies, file servers, security headers, compression & more.
+- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
