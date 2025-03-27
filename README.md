@@ -934,7 +934,7 @@
 - [wofferl/proxmox-backup-arm64](https://github.com/wofferl/proxmox-backup-arm64) - Script for building Proxmox Backup Server 3.x (Bookworm) for Armbian64
 - [TheFreeman193/PIFS](https://github.com/TheFreeman193/PIFS) - A collection of build properties for the PIF module
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
-- [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+- [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [StevenSeifried/proxmox-scripts](https://github.com/StevenSeifried/proxmox-scripts) - Scripts for Proxmox VE and Proxmox BS
 - [TheHellSite/archlinux_lxc](https://github.com/TheHellSite/archlinux_lxc) - A collection of some easy to use (Proxmox) Arch Linux LXC scripts.
 - [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) - RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
