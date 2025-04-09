@@ -1040,7 +1040,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Workflow automation with 280+ MCP servers (MCP tools) • AI automation & workflow automation platform + hundreds of MCP servers for AI • [n8n alternative - MIT-licensed n8n]
 - [mwood77/pf2opn](https://github.com/mwood77/pf2opn) - An in-browser pfsense to opnsense converter.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
