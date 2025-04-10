@@ -423,7 +423,6 @@
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
@@ -1544,7 +1543,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
@@ -1733,7 +1731,6 @@
 ## no-code 
 
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 
 ## node 
 
@@ -1875,6 +1872,7 @@
 - [douginoz/grafana-plex](https://github.com/douginoz/grafana-plex) - grafana service monitoring for Plex and underlying services
 - [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
 - [moerphin/vzdump2influx](https://github.com/moerphin/vzdump2influx) - Proxmox backup stats to InfluxDB
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI agents & MCPs & workflow automation • (280+ MCP servers for AI agents) • AI automation with MCPs • No-code AI agents with MCPs • AI workflows
 - [mwood77/pf2opn](https://github.com/mwood77/pf2opn) - An in-browser pfsense to opnsense converter.
 - [ponceto/pve-bulk](https://github.com/ponceto/pve-bulk) - Utility to perform bulk actions for Proxmox VE [this repository is a mirror]
 - [Proxtx/crontab_status](https://github.com/Proxtx/crontab_status) - Monitor your contab jobs. Get notified on failures
@@ -2461,7 +2459,6 @@
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
