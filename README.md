@@ -355,7 +355,7 @@
 - [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 - [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
 - [jakob-grabner/Circle-Progress-View](https://github.com/jakob-grabner/Circle-Progress-View) - Animated circular progress view for Android
-- [BelooS/ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) - ANDROID. ChipsLayoutManager (SpanLayoutManager, FlowLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recy
+- [oleg-beloy/ChipsLayoutManager](https://github.com/oleg-beloy/ChipsLayoutManager) - ANDROID. ChipsLayoutManager (SpanLayoutManager, FlowLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recy
 - [adonixis/android-animated-menu-items](https://github.com/adonixis/android-animated-menu-items) - The example Android project of animated menu items in toolbar
 - [material-foundation/material-remixer-android](https://github.com/material-foundation/material-remixer-android) - Remixer for Android. Live adjustment of app variables.
 - [Omertron/api-themoviedb](https://github.com/Omertron/api-themoviedb) - API for TheMovieDb.org website
