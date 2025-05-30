@@ -484,7 +484,6 @@
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
 - [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 - [lokenx/plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) - Meteor version of the original Plex Requests
-- [DriverPackSolution/DriverPack-Solution](https://github.com/DriverPackSolution/DriverPack-Solution) - DriverPack Solution — is the most popular program that makes the job of finding and automatically installing drivers a pleasure. DriverPack Software is subject to GNU GPL v2 as the end-user license (u
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 
 ## Jinja 
