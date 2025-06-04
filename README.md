@@ -707,7 +707,7 @@
 - [nilsteampassnet/TeamPass](https://github.com/nilsteampassnet/TeamPass) - Collaborative Passwords Manager
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [outroll/vesta](https://github.com/outroll/vesta) - VESTA Control Panel
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 
