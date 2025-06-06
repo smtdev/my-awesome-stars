@@ -442,7 +442,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [jacobwgillespie/plex-sync](https://github.com/jacobwgillespie/plex-sync) - :clapper: Command line utility for synchronizing Plex Media Server watched / seen status between multiple servers
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
@@ -1069,7 +1069,7 @@
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [mattwilson1024/google-photos-exif](https://github.com/mattwilson1024/google-photos-exif) - A tool to populate missing `DateTimeOriginal` EXIF metadata in Google Photos takeout, using Google's JSON metadata.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
