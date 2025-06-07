@@ -766,7 +766,6 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [georgewhewell/undervolt](https://github.com/georgewhewell/undervolt) - Undervolt Intel CPUs under Linux
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
@@ -919,7 +918,7 @@
 - [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
 - [onethree7/proxmox-lxc-privilege-converter](https://github.com/onethree7/proxmox-lxc-privilege-converter) - Convert Proxmox Containers (LXC) from unprivileged to privileged (and vice versa)
 - [boschkundendienst/guacamole-docker-compose](https://github.com/boschkundendienst/guacamole-docker-compose) - Guacamole with docker-compose using PostgreSQL, nginx with SSL (self-signed)
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - ⚡ Supercharge your Android! Your go-to awesome list for top root apps, Magisk & LSPosed modules, essential tools & guides for enhanced control and ultimate device customization.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - Explore the ultimate curated list of best root apps,powerful Magisk & LSPosed modules, must-have tools and step-by-step guides — all designed to maximize control, boost performance, and customize your
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [loeeeee/immich-in-lxc](https://github.com/loeeeee/immich-in-lxc) - Install Immich in LXC with optional CUDA support
@@ -1047,6 +1046,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [mwood77/pf2opn](https://github.com/mwood77/pf2opn) - An in-browser pfsense to opnsense converter.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
