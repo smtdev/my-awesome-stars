@@ -933,7 +933,7 @@
 - [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
 - [moerphin/vzdump2influx](https://github.com/moerphin/vzdump2influx) - Proxmox backup stats to InfluxDB
 - [ponceto/pve-bulk](https://github.com/ponceto/pve-bulk) - Utility to perform bulk actions for Proxmox VE [this repository is a mirror]
-- [itiligent/Easy-Guacamole-Installer](https://github.com/itiligent/Easy-Guacamole-Installer) - 2025 Gucamole installer with options for HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more.
+- [itiligent/Easy-Guacamole-Installer](https://github.com/itiligent/Easy-Guacamole-Installer) - 2025 Gucamole 1.6.0 installer with options for HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more.
 - [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
 - [wofferl/proxmox-backup-arm64](https://github.com/wofferl/proxmox-backup-arm64) - Script for building Proxmox Backup Server 3.x (Bookworm) or 4.x (Trixie) for Armbian64
 - [TheFreeman193/PIFS](https://github.com/TheFreeman193/PIFS) - A collection of build properties for the PIF module
