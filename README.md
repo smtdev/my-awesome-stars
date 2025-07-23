@@ -881,7 +881,7 @@
 
 ## Ruby 
 
-- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Location History (Google Maps Timeline)
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [dsantosmerino/filmaffinity-gem](https://github.com/dsantosmerino/filmaffinity-gem) - Easy access to Filmaffinity data
