@@ -923,7 +923,7 @@
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [loeeeee/immich-in-lxc](https://github.com/loeeeee/immich-in-lxc) - Install Immich in LXC with optional CUDA support
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [TimInTech/minecraft-server-Proxmox](https://github.com/TimInTech/minecraft-server-Proxmox) - 🎮 Minecraft Server on Debian in Proxmox CT 🛠️
+- [TimInTech/minecraft-server-Proxmox](https://github.com/TimInTech/minecraft-server-Proxmox) - Automated Minecraft Java/Bedrock server setup on Proxmox VM & LXC (Ubuntu/Debian)
 - [fdcastel/Proxmox-Automation](https://github.com/fdcastel/Proxmox-Automation) - Collection of scripts to manage Proxmox environments.
 - [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles) - 🧰 ~ • My Đotfiles
 - [hoverbike1/TOTK-Mods-collection](https://github.com/hoverbike1/TOTK-Mods-collection) - Mod repo for Tears of The Kingdom (TOTK) for Switch and Switch Emulation
