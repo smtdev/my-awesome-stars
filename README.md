@@ -898,7 +898,6 @@
 - [NGnius/PowerTools](https://github.com/NGnius/PowerTools) - Moved to
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
-- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [Miserlou/Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
 - [julianbuettner/tcp-over-http](https://github.com/julianbuettner/tcp-over-http) - A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
