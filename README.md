@@ -103,7 +103,7 @@
 
 ## C# # 
 
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight, open-source control tool for ASUS laptops and ROG Ally. Manage performance modes, fans, GPU, battery, and RGB lighting across Zephyrus, Flow, TUF, Strix, Scar, and other models.
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
 - [mKenfenheuer/steam-deck-windows-usermode-driver](https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver) - A windows usermode controller driver for the steam deck internal controller.
