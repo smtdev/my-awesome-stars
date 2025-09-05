@@ -1961,7 +1961,7 @@
 - [walmyrcarvalho/trakt-client-test](https://github.com/walmyrcarvalho/trakt-client-test) - A simple Android trakt.tv client project made for an interview process.
 - [michaldrabik/showly](https://github.com/michaldrabik/showly) - Showly is a modern and slick Movies and TV Shows manager.
 - [florianmski/Traktoid](https://github.com/florianmski/Traktoid) - Traktoid, a Trakt client for Android
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight, open-source control tool for ASUS laptops and ROG Ally. Manage performance modes, fans, GPU, battery, and RGB lighting across Zephyrus, Flow, TUF, Strix, Scar, and other models.
 - [MikeOrtiz/TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
 - [fdcastel/Proxmox-Automation](https://github.com/fdcastel/Proxmox-Automation) - Collection of scripts to manage Proxmox environments.
 - [vivami/proxmox-automation](https://github.com/vivami/proxmox-automation) - Terraform and Ansible for VM and CT deployment and provisioning on Proxmox
