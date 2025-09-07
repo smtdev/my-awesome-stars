@@ -83,6 +83,7 @@
 - [game](#game)
 - [game-engine](#game-engine)
 - [games](#games)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -1099,6 +1100,10 @@
 
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
+
+## gaming 
+
+- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 
 ## git 
 
