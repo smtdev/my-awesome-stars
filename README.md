@@ -198,7 +198,7 @@
 
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
 - [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
-- [yusing/godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
+- [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
@@ -383,7 +383,7 @@
 - [michaelbel/YouShows](https://github.com/michaelbel/YouShows) - Simple app to track and save your TV shows
 - [GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community) - 
 - [despcy/Google-AAD-CheatSheet](https://github.com/despcy/Google-AAD-CheatSheet) - Code may be used in Google Associate Android Developer Exam 谷歌安卓开发者认证考试常用代码
-- [Madonahs/Nano-Degree-Projects](https://github.com/Madonahs/Nano-Degree-Projects) - 🎓  Udacity Nano Degree Android Projects. All Needed projects you can check out my work here. Submitted and accepted projects.
+- [madonawambua/Nano-Degree-Projects](https://github.com/madonawambua/Nano-Degree-Projects) - 🎓  Udacity Nano Degree Android Projects. All Needed projects you can check out my work here. Submitted and accepted projects.
 - [akueisara/android-basics-nanodegree-by-google](https://github.com/akueisara/android-basics-nanodegree-by-google) - Projects for Udacity Android Basics Nanodegree
 - [Gismo8/Android_Basics_Nanodegree_by_Google-My_10_Projects](https://github.com/Gismo8/Android_Basics_Nanodegree_by_Google-My_10_Projects) - All of my completed Android Basics Nanodegree by Google projects.
 - [dmitrymalk/popular-movies-app](https://github.com/dmitrymalk/popular-movies-app) - Popular Movies App is the second project in Udacity's Android Developer Nanodegree.
