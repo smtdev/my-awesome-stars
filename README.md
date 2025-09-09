@@ -921,7 +921,7 @@
 
 ## Scala 
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [akka/akka](https://github.com/akka/akka) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
 
 ## Shell 
@@ -931,7 +931,7 @@
 - [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
 - [onethree7/proxmox-lxc-privilege-converter](https://github.com/onethree7/proxmox-lxc-privilege-converter) - Convert Proxmox Containers (LXC) from unprivileged to privileged (and vice versa)
 - [boschkundendienst/guacamole-docker-compose](https://github.com/boschkundendienst/guacamole-docker-compose) - Guacamole with docker-compose using PostgreSQL, nginx with SSL (self-signed)
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Ultimate collection of best Android root apps, Magisk/KernelSU/LSPosed modules, and step-by-step rooting guides.
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover 400+ best root apps, Magisk/KernelSU/APatch/LSPosed(xposed) modules, and step-by-step guides for every device.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [loeeeee/immich-in-lxc](https://github.com/loeeeee/immich-in-lxc) - Install Immich in LXC with optional CUDA support
