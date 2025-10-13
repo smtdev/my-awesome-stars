@@ -437,6 +437,7 @@
 
 ## JavaScript 
 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ Lightweight, self-hosted web-based file manager with multi-file upload, editing, and batch operations – built with PHP & JavaScript for seamless file and folder management (Docker & Unraid ready).
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -589,6 +590,7 @@
 
 ## Others 
 
+- [l0gicx/ai-model-bypass](https://github.com/l0gicx/ai-model-bypass) - Exploit prompts and roleplay techniques for bypassing AI model restrictions.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [undeadpickle/claude-code-mcpinstall](https://github.com/undeadpickle/claude-code-mcpinstall) - Easy guide to installing Claude Code MCPs globally on your machine.
