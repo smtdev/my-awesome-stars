@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [ajax](#ajax)
@@ -235,6 +236,17 @@
 - [xcode](#xcode)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## agent 
+
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## ai 
 
@@ -2847,7 +2859,7 @@
 
 ## text-to-speech 
 
-- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.
+- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
 
 ## twitter 
 
