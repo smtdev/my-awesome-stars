@@ -484,7 +484,6 @@
 
 ## automation 
 
-- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
 - [fabriziosalmi/proxmox-lxc-autoscale-ml](https://github.com/fabriziosalmi/proxmox-lxc-autoscale-ml) - Automatically scale the LXC containers resources on Proxmox hosts with AI
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
@@ -977,7 +976,7 @@
 
 - [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -1098,7 +1097,7 @@
 
 ## english 
 
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 
 ## es6 
 
@@ -1674,7 +1673,7 @@
 
 ## linux 
 
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
@@ -1757,7 +1756,7 @@
 
 ## mac 
 
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
@@ -3018,7 +3017,7 @@
 
 ## windows 
 
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
