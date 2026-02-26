@@ -2111,7 +2111,7 @@
 - [jpelgrom/retrofit2-oauthrefresh](https://github.com/jpelgrom/retrofit2-oauthrefresh) - Example on how to authenticate using Retrofit 2 + OAuth 2, including automatic use of the refresh token when necessary
 - [mohsenoid/trakt.tv](https://github.com/mohsenoid/trakt.tv) - Trakt.tv Android Application Assigned by Trivago
 - [walmyrcarvalho/trakt-client-test](https://github.com/walmyrcarvalho/trakt-client-test) - A simple Android trakt.tv client project made for an interview process.
-- [michaldrabik/showly](https://github.com/michaldrabik/showly) - Showly is a modern and slick Movies and TV Shows manager.
+- [trakt/showly](https://github.com/trakt/showly) - Showly is a modern and slick Movies and TV Shows manager.
 - [florianmski/Traktoid](https://github.com/florianmski/Traktoid) - Traktoid, a Trakt client for Android
 - [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight, open-source control tool for ASUS laptops and ROG Ally. Manage performance modes, fans, GPU, battery, and RGB lighting across Zephyrus, Flow, TUF, Strix, Scar, and other models.
 - [MikeOrtiz/TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
