@@ -614,7 +614,7 @@
 - [candiddev/homechart](https://github.com/candiddev/homechart) - Your Family's Mission Control
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [afro-systems/lxc-guac-setup](https://github.com/afro-systems/lxc-guac-setup) - Proxmox - Debian 10 LXC Apache Guacamole
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - 🚀 A hand-curated list of free, open, and developer-friendly APIs
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 - [remote-es/remotes](https://github.com/remote-es/remotes) - This is a repository listing companies which offer full-time remote jobs with Spanish contracts
 - [n1ckoates/steamdeck-emulation](https://github.com/n1ckoates/steamdeck-emulation) - 🎮 Guide to play emulated games on Steam Deck
 - [Abd-007/Switch-Emulators-Guide](https://github.com/Abd-007/Switch-Emulators-Guide) - A guide to get either Yuzu or Ryujinx running on your PC. Includes links for games, keys, firmware, shaders and some other stuff. Made for 128BitBay.
