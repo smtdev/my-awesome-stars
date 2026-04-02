@@ -910,6 +910,7 @@
 
 ## Rust 
 
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [buyukakyuz/email-sleuth](https://github.com/buyukakyuz/email-sleuth) - Discover and verify professional emails using names + domains
