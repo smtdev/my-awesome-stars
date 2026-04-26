@@ -831,9 +831,9 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+- [nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 
