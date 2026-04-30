@@ -2206,7 +2206,7 @@
 - [walmyrcarvalho/trakt-client-test](https://github.com/walmyrcarvalho/trakt-client-test) - A simple Android trakt.tv client project made for an interview process.
 - [trakt/showly](https://github.com/trakt/showly) - Showly is a modern and slick Movies and TV Shows manager.
 - [florianmski/Traktoid](https://github.com/florianmski/Traktoid) - Traktoid, a Trakt client for Android
-- [seerge/g-helper](https://github.com/seerge/g-helper) - The control app every laptop should come with. G-Helper is a fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, Scar, TUF
+- [seerge/g-helper](https://github.com/seerge/g-helper) - G-Helper is a fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, TUF, Vivobook, Zenbook, ProArt, Ally, and beyond.
 - [MikeOrtiz/TouchImageView](https://github.com/MikeOrtiz/TouchImageView) - Adds touch functionality to Android ImageView.
 - [fdcastel/Proxmox-Automation](https://github.com/fdcastel/Proxmox-Automation) - Collection of scripts to manage Proxmox environments.
 - [vivami/proxmox-automation](https://github.com/vivami/proxmox-automation) - Terraform and Ansible for VM and CT deployment and provisioning on Proxmox
