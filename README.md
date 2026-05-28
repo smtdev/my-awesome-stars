@@ -1057,6 +1057,7 @@
 
 ## TypeScript 
 
+- [GeiserX/DeclaRenta](https://github.com/GeiserX/DeclaRenta) - Convierte informes de brokers extranjeros en declaraciones fiscales españolas: Modelo 100 (Renta), Modelo 720, Modelo 721 (cripto) y D-6. 100% gratuito, privado y self-hosted.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [obytes/app-icon-badge](https://github.com/obytes/app-icon-badge) - 🧩 Expo plugin/library to add badges for your app icon: banner, ribbon, and fully customizable.
