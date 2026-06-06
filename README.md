@@ -49,6 +49,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
@@ -316,7 +317,7 @@
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [Netflix/conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
-- [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
+- [williamfiset/algorithms](https://github.com/williamfiset/algorithms) - A collection of algorithms and data structures
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [Alcatraz323/audiohq_md2](https://github.com/Alcatraz323/audiohq_md2) - A tool to control android application volume individually, TRUE adjusting not auto adjust script, for native and more information check the website
 - [marcelrv/XiaomiRobotVacuumProtocol](https://github.com/marcelrv/XiaomiRobotVacuumProtocol) - Attempt to describe the Xiaomi Robot Vacuum Protocol
@@ -1049,6 +1050,10 @@
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [angelolloqui/SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - A tool to convert Swift code to Kotlin.
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
