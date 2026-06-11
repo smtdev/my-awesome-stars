@@ -525,7 +525,6 @@
 - [mikepenz/FastAdapter](https://github.com/mikepenz/FastAdapter) - The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction...
 - [haroldadmin/MovieDB](https://github.com/haroldadmin/MovieDB) - A gorgeous TMDb client for Android
 - [Skrilltrax/TheMovieDB](https://github.com/Skrilltrax/TheMovieDB) - TheMovieDB is an android app based on TMDB api.
-- [material-components/material-components-android-examples](https://github.com/material-components/material-components-android-examples) - Companion example apps and code for MDC-Android.
 - [firatkarababa/BottomAppBarBehaviour](https://github.com/firatkarababa/BottomAppBarBehaviour) - An example project to implement BottomAppBar behaviors
 - [antoniolg/architect-coders](https://github.com/antoniolg/architect-coders) - Companion app for Architect Coders training
 - [janishar/android-kotlin-mvp-architecture](https://github.com/janishar/android-kotlin-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture in Kotlin using Dagger2, Room, RxJava2, FastAndroidNetworking and PlaceholderView
@@ -909,7 +908,7 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [buyukakyuz/email-sleuth](https://github.com/buyukakyuz/email-sleuth) - Discover and verify professional emails using names + domains
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
@@ -934,6 +933,7 @@
 
 ## Shell 
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
