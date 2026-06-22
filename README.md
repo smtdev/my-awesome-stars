@@ -553,7 +553,7 @@
 - [fennifith/Attribouter](https://github.com/fennifith/Attribouter) - A lightweight "about screen" library to allow quick but customizable attribution in Android apps.
 - [Hamadakram/AlertView](https://github.com/Hamadakram/AlertView) - A library to create simple alerts easily with some customization.
 - [aritraroy/Flashbar](https://github.com/aritraroy/Flashbar) - ⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
-- [tommybuonomo/dotsindicator](https://github.com/tommybuonomo/dotsindicator) - Three material Dots Indicators for view pagers in Android !
+- [tommybuonomo/dotsindicator](https://github.com/tommybuonomo/dotsindicator) - Dots indicators for Android ViewPager and Compose
 - [bogerchan/Nier-Visualizer](https://github.com/bogerchan/Nier-Visualizer) - A lightweight and efficient Android visual library.
 - [skydoves/Needs](https://github.com/skydoves/Needs) - :closed_umbrella: An easy way to implement modern permission instructions popup.
 - [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) - AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose Multiplatform env
