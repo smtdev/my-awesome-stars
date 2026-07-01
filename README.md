@@ -737,6 +737,7 @@
 
 ## Python 
 
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [jopsis/HTTPAceProxy](https://github.com/jopsis/HTTPAceProxy) - Forking for update to NewEra and add ace
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [osa911/archimmich](https://github.com/osa911/archimmich) - Immich assets archiver
