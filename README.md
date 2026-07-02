@@ -974,7 +974,7 @@
 - [scawp/Steam-Deck.Force-SteamOS-On-Boot](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - When Dual Booting, This Script will Force SteamOS to Boot when Powering on rather than Windows
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
-- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required. Formerly https://gptshell.cc
+- [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [domingoruiz/Proxmox-Launcher](https://github.com/domingoruiz/Proxmox-Launcher) - Utilidad para acceder rápidamente a máquinas virtuales Proxmox
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Create and keep multiple backup versions of your running Raspberries
