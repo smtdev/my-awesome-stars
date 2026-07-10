@@ -194,7 +194,7 @@
 - [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 - [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
@@ -507,6 +507,7 @@
 
 ## Kotlin 
 
+- [Foso/Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client generator / KSP plugin for Kotlin Multiplatform (Android, iOS, Js, Jvm, Native, WasmJs)) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
 - [RevenueCat/purchases-android](https://github.com/RevenueCat/purchases-android) - RevenueCat SDK for Android & Jetpack Compose, easy in-app purchases and subscriptions.
 - [jordond/MaterialKolor](https://github.com/jordond/MaterialKolor) - 🎨 Generate a dynamic Material3 color scheme from a seed color
 - [gsttarun/Relay-for-Trakt.tv](https://github.com/gsttarun/Relay-for-Trakt.tv) - An Android App to access Trakt.tv
