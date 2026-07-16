@@ -2219,6 +2219,7 @@
 
 ## others 
 
+- [duggasco/bc250-40cu-unlock](https://github.com/duggasco/bc250-40cu-unlock) - Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 - [jopsis/HTTPAceProxy](https://github.com/jopsis/HTTPAceProxy) - Forking for update to NewEra and add ace
