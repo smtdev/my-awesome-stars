@@ -379,7 +379,6 @@
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ArisGuimera/Android-Expert](https://github.com/ArisGuimera/Android-Expert) - Aprende a PROGRAMAR aplicaciones ANDROID en KOTLIN sin conocimientos previos
-- [ryanrudolfoba/SteamOS-Waydroid-Installer](https://github.com/ryanrudolfoba/SteamOS-Waydroid-Installer) - Script to easily install / uninstall Android via Waydroid on the Steam Deck running on SteamOS stable, beta or MAIN!
 - [daboynb/PlayIntegrityNEXT](https://github.com/daboynb/PlayIntegrityNEXT) - 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
@@ -2221,6 +2220,7 @@
 
 ## others 
 
+- [WinnieLV/bc250-cu-live-manager](https://github.com/WinnieLV/bc250-cu-live-manager) - Interactive BC-250 CU/WGP live manager using UMR, with TUI controls, safety checks, and boot-table   persistence.
 - [akandr/bc250](https://github.com/akandr/bc250) - AMD BC-250 (PS5 APU) setup guide — Ollama + Vulkan inference, poor man's AI assistant via Signal, stable-diffusion.cpp image generation
 - [GreatApo/BC250_ESP32_ATX_PSU](https://github.com/GreatApo/BC250_ESP32_ATX_PSU) - Power on BC-250 via Case Button, WebUI or Bluetooth gamepad
 - [rpf16rj/bc250-steamos-real-toolkit](https://github.com/rpf16rj/bc250-steamos-real-toolkit) - 
