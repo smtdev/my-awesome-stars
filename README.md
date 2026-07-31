@@ -261,7 +261,6 @@
 
 ## HCL 
 
-- [vehagn/homelab](https://github.com/vehagn/homelab) - Configuration for my homelab running Talos Kubernetes provisioned with OpenTofu.
 - [khanh-ph/proxmox-kubernetes](https://github.com/khanh-ph/proxmox-kubernetes) - Enables you to create a Kubernetes cluster on Proxmox VE with Terraform & Kubespray in a declarative manner.
 - [vivami/proxmox-automation](https://github.com/vivami/proxmox-automation) - Terraform and Ansible for VM and CT deployment and provisioning on Proxmox
 
@@ -273,6 +272,7 @@
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [jon6fingrs/ghostboard](https://github.com/jon6fingrs/ghostboard) - a dead simple way to share text between computers via web or cli
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
+- [vehagn/homelab](https://github.com/vehagn/homelab) - Configuration for my homelab running Talos Kubernetes provisioned with OpenTofu.
 - [bukosabino/justicio](https://github.com/bukosabino/justicio) - Building an assistant for Boletin Oficial del Estado (BOE) using Retrieval Augmented Generation (RAG)
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [shubham1710/ByteWalk](https://github.com/shubham1710/ByteWalk) - A social media photo-sharing website built on the Django Framework.
