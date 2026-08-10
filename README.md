@@ -48,7 +48,6 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
-- [Text](#text)
 - [TypeScript](#typescript)
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
@@ -1055,10 +1054,6 @@
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [angelolloqui/SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - A tool to convert Swift code to Kotlin.
-
-## Text 
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
