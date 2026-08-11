@@ -540,7 +540,7 @@
 - [Commit451/ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment) - Modal bottom sheet dialog based on the Material Guidelines
 - [iammert/ReadableBottomBar](https://github.com/iammert/ReadableBottomBar) - Yet another material bottom bar library for Android
 - [android10/Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) - This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.
-- [michaelbel/movies](https://github.com/michaelbel/movies) - Discover movies app illustrating Kotlin Multiplatform development best practices
+- [michaelbel/movies](https://github.com/michaelbel/movies) - Kotlin Multiplatform movie discovery app powered by TMDb — Android, iOS and Desktop with Compose Multiplatform and Material3
 - [Alifyz/Android-Certification](https://github.com/Alifyz/Android-Certification) - Associate Developer Certification Exam Guide
 - [vmadalin/android-modular-architecture](https://github.com/vmadalin/android-modular-architecture) - 📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
 - [didi/booster](https://github.com/didi/booster) - 🚀Optimizer for mobile applications
@@ -620,7 +620,6 @@
 - [UdelaRInterior/ansible-role-proxmox-create-lxc](https://github.com/UdelaRInterior/ansible-role-proxmox-create-lxc) - Ansible role to create an lxc container with network and several disks
 - [Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates) - Template file for new portainer setup
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [FuzzyGrim/docker-compose](https://github.com/FuzzyGrim/docker-compose) - Personal collection of docker-compose files.
 - [Androthi/cCalc](https://github.com/Androthi/cCalc) - a binary calculator using x/86 instructions
@@ -849,6 +848,7 @@
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [vicalloy/telegram-shell-bot](https://github.com/vicalloy/telegram-shell-bot) - A telegram Bot to run shell commands
 - [roxy-wi/roxy-wi](https://github.com/roxy-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
