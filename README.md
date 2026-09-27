@@ -404,7 +404,6 @@
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
 - [MFlisar/changelog](https://github.com/MFlisar/changelog) - Changelog library - builder setup and advanced filtering
 - [ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - Android library to observe scroll events on scrollable views.
-- [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 - [navasmdc/MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) - This is a library with components of Android L to you use in android 2.2
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [luisburgos/design-patterns](https://github.com/luisburgos/design-patterns) - Ejemplos simples del uso de patrones de diseño.
@@ -555,6 +554,7 @@
 - [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 - [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies with this Android app
+- [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 - [MatrixDev/Roomigrant](https://github.com/MatrixDev/Roomigrant) - Automated Android Room ORM migrations generator with compile-time code generation
 - [TheAlgorithms/Kotlin](https://github.com/TheAlgorithms/Kotlin) - All Algorithms implemented in Kotlin
 - [fennifith/Attribouter](https://github.com/fennifith/Attribouter) - A lightweight "about screen" library to allow quick but customizable attribution in Android apps.
