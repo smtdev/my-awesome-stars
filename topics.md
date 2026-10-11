@@ -2264,6 +2264,7 @@
 
 ## others 
 
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [claudioguareschi/opnsense-dashboard-plus](https://github.com/claudioguareschi/opnsense-dashboard-plus) - Enhanced OpnSense dashboard widgets and plugins
 - [laurinml/Immich-Insights](https://github.com/laurinml/Immich-Insights) - Immich Insights is a self-hostable docker container that displays statistics for assets of an account of Immich using the Immich API.
 - [rw-r-r-0644/bc250-core-unlock](https://github.com/rw-r-r-0644/bc250-core-unlock) - Unlock 2 extra cores on the AMD BC-250
