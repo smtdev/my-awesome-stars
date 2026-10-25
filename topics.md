@@ -80,6 +80,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -1194,6 +1195,13 @@
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 
+## downloader 
+
+- [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [binhex/arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker build script for Arch Linux base with Deluge, Privoxy and OpenVPN
+- [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
+
 ## dsh-plugin 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -2278,6 +2286,7 @@
 
 ## others 
 
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [storytold/craft-launcher](https://github.com/storytold/craft-launcher) - The Craft App Launcher
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [claudioguareschi/opnsense-dashboard-plus](https://github.com/claudioguareschi/opnsense-dashboard-plus) - OPNsense plugins: a live world map of your firewall's traffic and threats, plus 12 richer dashboard widgets (CARP, ZFS, DNS, QuickAssist, VNStat…)
@@ -3149,7 +3158,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
