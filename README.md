@@ -179,7 +179,6 @@
 
 - [ksokolovskyi/material_shapes](https://github.com/ksokolovskyi/material_shapes) - Material 3 Shapes
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
-- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
@@ -521,6 +520,7 @@
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [saarthak08/Movies-Index](https://github.com/saarthak08/Movies-Index) - An android application which shows the list & information of movies from The Movie Database API (TMDb) & allows to download their torrent files from YIFY.
 - [prathameshmm02/ThemeEngine](https://github.com/prathameshmm02/ThemeEngine) - Material Design 3 Theme Engine for Android
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [ArisGuimera/Android-Expert](https://github.com/ArisGuimera/Android-Expert) - Aprende a PROGRAMAR aplicaciones ANDROID en KOTLIN sin conocimientos previos
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
@@ -715,7 +715,7 @@
 - [VictorRobellini/pfSense-Dashboard](https://github.com/VictorRobellini/pfSense-Dashboard) - A functional and useful dashboard for pfSense that utilizes influxdb, grafana and telegraf
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition) - Nextcloud app that implement a basic facial recognition system.
-- [nilsteampassnet/TeamPass](https://github.com/nilsteampassnet/TeamPass) - Collaborative Passwords Manager
+- [nilsteampassnet/TeamPass](https://github.com/nilsteampassnet/TeamPass) - Self-hosted collaborative password manager for teams: folder-level access control, AES-256-GCM encryption, LDAP/AD, OAuth2 SSO, audit trail, REST API, browser extension. PHP/MySQL, Docker.
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
@@ -745,6 +745,7 @@
 
 ## Python 
 
+- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [claudioguareschi/opnsense-dashboard-plus](https://github.com/claudioguareschi/opnsense-dashboard-plus) - OPNsense plugins: a live world map of your firewall's traffic and threats, plus 12 richer dashboard widgets (CARP, ZFS, DNS, QuickAssist, VNStat…)
 - [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
 - [rw-r-r-0644/bc250-core-unlock](https://github.com/rw-r-r-0644/bc250-core-unlock) - Unlock 2 extra cores on the AMD BC-250
@@ -1069,7 +1070,6 @@
 
 ## TypeScript 
 
-- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [laurinml/Immich-Insights](https://github.com/laurinml/Immich-Insights) - Immich Insights is a self-hostable docker container that displays statistics for assets of an account of Immich using the Immich API.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
