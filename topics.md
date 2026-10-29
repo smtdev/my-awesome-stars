@@ -459,7 +459,7 @@
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 - [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers
 - [michaelbel/YouShows](https://github.com/michaelbel/YouShows) - Simple app to track and save your TV shows
-- [michaelbel/movies](https://github.com/michaelbel/movies) - Kotlin Multiplatform movie discovery app powered by TMDb — Android, iOS and Desktop with Compose Multiplatform and Material3
+- [michaelbel/movies](https://github.com/michaelbel/movies) - Kotlin Multiplatform movie discovery app powered by TMDb – Android, iOS and Desktop with Compose Multiplatform and Material3
 - [Alifyz/Android-Certification](https://github.com/Alifyz/Android-Certification) - Associate Developer Certification Exam Guide
 - [Madonahs/Nano-Degree-Projects](https://github.com/Madonahs/Nano-Degree-Projects) - 🎓  Udacity Nano Degree Android Projects. All Needed projects you can check out my work here. Submitted and accepted projects.
 - [Gismo8/Android_Basics_Nanodegree_by_Google-My_10_Projects](https://github.com/Gismo8/Android_Basics_Nanodegree_by_Google-My_10_Projects) - All of my completed Android Basics Nanodegree by Google projects.
@@ -1177,7 +1177,7 @@
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [ubahnverleih/WoBike](https://github.com/ubahnverleih/WoBike) - Documentation of Bike Sharing APIs 🚴🛴🛵
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -1553,7 +1553,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
@@ -1704,7 +1704,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - MOVED to jsonresume/jsonresume.org (packages/cli) — npm 'resume-cli' unchanged, revived for Node 18+
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [wekan/wekan](https://github.com/wekan/wekan) - FLOSS kanban, built with Meteor. Official Public Support at GitHub issues only. Official Private Pre-Paid Support at https://wekan.fi/commercial-support/ only. Translation PRs to imports/i18n/data/en.
@@ -1787,7 +1787,7 @@
 - [iammert/ReadableBottomBar](https://github.com/iammert/ReadableBottomBar) - Yet another material bottom bar library for Android
 - [android10/Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) - This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.
 - [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers
-- [michaelbel/movies](https://github.com/michaelbel/movies) - Kotlin Multiplatform movie discovery app powered by TMDb — Android, iOS and Desktop with Compose Multiplatform and Material3
+- [michaelbel/movies](https://github.com/michaelbel/movies) - Kotlin Multiplatform movie discovery app powered by TMDb – Android, iOS and Desktop with Compose Multiplatform and Material3
 - [vmadalin/android-modular-architecture](https://github.com/vmadalin/android-modular-architecture) - 📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
 - [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
@@ -2085,7 +2085,7 @@
 ## mobile 
 
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Database for Android and JVM - first and fast, lightweight on-device vector database
-- [michaelbel/movies](https://github.com/michaelbel/movies) - Kotlin Multiplatform movie discovery app powered by TMDb — Android, iOS and Desktop with Compose Multiplatform and Material3
+- [michaelbel/movies](https://github.com/michaelbel/movies) - Kotlin Multiplatform movie discovery app powered by TMDb – Android, iOS and Desktop with Compose Multiplatform and Material3
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 ## mongodb 
@@ -2239,7 +2239,7 @@
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2290,6 +2290,7 @@
 
 ## others 
 
+- [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) - Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [storytold/craft-launcher](https://github.com/storytold/craft-launcher) - The Craft App Launcher
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
@@ -2870,7 +2871,7 @@
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
@@ -3324,7 +3325,7 @@
 ## website 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 
 ## windows 
 
