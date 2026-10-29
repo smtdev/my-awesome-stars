@@ -545,7 +545,7 @@
 - [Commit451/ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment) - Modal bottom sheet dialog based on the Material Guidelines
 - [iammert/ReadableBottomBar](https://github.com/iammert/ReadableBottomBar) - Yet another material bottom bar library for Android
 - [android10/Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) - This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.
-- [michaelbel/movies](https://github.com/michaelbel/movies) - Kotlin Multiplatform movie discovery app powered by TMDb — Android, iOS and Desktop with Compose Multiplatform and Material3
+- [michaelbel/movies](https://github.com/michaelbel/movies) - Kotlin Multiplatform movie discovery app powered by TMDb – Android, iOS and Desktop with Compose Multiplatform and Material3
 - [Alifyz/Android-Certification](https://github.com/Alifyz/Android-Certification) - Associate Developer Certification Exam Guide
 - [vmadalin/android-modular-architecture](https://github.com/vmadalin/android-modular-architecture) - 📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack.
 - [didi/booster](https://github.com/didi/booster) - 🚀Optimizer for mobile applications
@@ -745,6 +745,7 @@
 
 ## Python 
 
+- [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) - Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [claudioguareschi/opnsense-dashboard-plus](https://github.com/claudioguareschi/opnsense-dashboard-plus) - OPNsense plugins: a live world map of your firewall's traffic and threats, plus 12 richer dashboard widgets (CARP, ZFS, DNS, QuickAssist, VNStat…)
 - [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
@@ -1139,7 +1140,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
