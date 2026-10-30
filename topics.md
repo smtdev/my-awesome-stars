@@ -17,6 +17,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
@@ -287,6 +288,7 @@
 
 ## agents 
 
+- [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) - A blazingly fast programmatic video engine, made for agents.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
@@ -341,6 +343,7 @@
 
 ## ai-agents 
 
+- [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) - A blazingly fast programmatic video engine, made for agents.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
@@ -504,6 +507,18 @@
 ## angular 
 
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
+
+## animation 
+
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
+- [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Compose and Kotlin Multiplatform.
+- [jd-alexander/LikeButton](https://github.com/jd-alexander/LikeButton) - Twitter's heart animation for Android
+- [wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
+- [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [adonixis/android-animated-menu-items](https://github.com/adonixis/android-animated-menu-items) - The example Android project of animated menu items in toolbar
+- [iammert/ScalingLayout](https://github.com/iammert/ScalingLayout) - With Scaling Layout scale your layout on user interaction.
 
 ## ansible 
 
@@ -2052,6 +2067,7 @@
 
 ## mcp 
 
+- [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) - A blazingly fast programmatic video engine, made for agents.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -2480,7 +2496,6 @@
 - [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [deano2390/MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) - A Material Design themed ShowcaseView for Android
 - [k0shk0sh/Android-MVP-for-dummies](https://github.com/k0shk0sh/Android-MVP-for-dummies) - this is simple application demonstrate how structuring MVP project in Android.
-- [jd-alexander/LikeButton](https://github.com/jd-alexander/LikeButton) - Twitter's heart animation for Android
 - [marwa-eltayeb/MovieTrailer](https://github.com/marwa-eltayeb/MovieTrailer) - Android Movie App for displaying all popular movies, search any movie, find information about it and save it locally as a favourite movie made by using TMDb (The Movie Database) API
 - [mitchtabian/Retrofit-Caching-Example](https://github.com/mitchtabian/Retrofit-Caching-Example) - An example of how to use Retrofit2 to cache HTTP responses
 - [mitchtabian/Clean-Notes](https://github.com/mitchtabian/Clean-Notes) - Clean Architecture by layer
@@ -2855,6 +2870,7 @@
 
 ## react 
 
+- [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) - A blazingly fast programmatic video engine, made for agents.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -2919,6 +2935,7 @@
 
 ## rust 
 
+- [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) - A blazingly fast programmatic video engine, made for agents.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -3201,6 +3218,7 @@
 
 ## typescript 
 
+- [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) - A blazingly fast programmatic video engine, made for agents.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
@@ -3255,6 +3273,7 @@
 
 ## video 
 
+- [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) - A blazingly fast programmatic video engine, made for agents.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [bennyhuo/Kotlin-Tutorials](https://github.com/bennyhuo/Kotlin-Tutorials) - 仓库持续记录以 Kotlin 为基础的视频内容的制作过程
 
