@@ -369,7 +369,6 @@
 - [Blogcat/Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView) - An expandable TextView for Android applications
 - [Manabu-GT/ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView) - Android's TextView that can expand/collapse like the Google Play's app description
 - [evernext10/Consuming-TheMovieDB-API-With-Retrofit-and-Save-SQLite](https://github.com/evernext10/Consuming-TheMovieDB-API-With-Retrofit-and-Save-SQLite) - The TheMovieDB.org API is consumed using Retrofit and saving the information in a SQLite for handling in Offline.
-- [nisrulz/android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
 - [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 - [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
 - [jakob-grabner/Circle-Progress-View](https://github.com/jakob-grabner/Circle-Progress-View) - Animated circular progress view for Android
@@ -879,6 +878,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+- [nisrulz/android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
