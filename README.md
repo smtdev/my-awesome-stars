@@ -134,6 +134,7 @@
 
 ## C++ 
 
+- [ItsNotRexed/Hookshot](https://github.com/ItsNotRexed/Hookshot) - Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [GreatApo/BC250_ESP32_ATX_PSU](https://github.com/GreatApo/BC250_ESP32_ATX_PSU) - Power on BC-250 via Case Button, WebUI or Bluetooth gamepad
@@ -748,6 +749,7 @@
 
 ## Python 
 
+- [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) - Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 - [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) - Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [claudioguareschi/opnsense-dashboard-plus](https://github.com/claudioguareschi/opnsense-dashboard-plus) - OPNsense plugins: a live world map of your firewall's traffic and threats, plus 12 richer dashboard widgets (CARP, ZFS, DNS, QuickAssist, VNStat…)
