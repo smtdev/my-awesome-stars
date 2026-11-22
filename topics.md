@@ -2347,6 +2347,8 @@
 
 ## others 
 
+- [ItsNotRexed/Hookshot](https://github.com/ItsNotRexed/Hookshot) - Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake
+- [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) - Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 - [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) - Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [storytold/craft-launcher](https://github.com/storytold/craft-launcher) - The Craft App Launcher
